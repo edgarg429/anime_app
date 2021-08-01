@@ -1,0 +1,1001 @@
+,MAL_ID,Genres,Type,Episodes,Rating,Popularity,Cleaned_Name,Year_Premiered,Duration_in_Minutes
+0,1535,"Mystery, Police, Psychological, Supernatural, Thriller, Shounen",TV,37,R - 17+ (violence & profanity),1,Death Note,2006,23.0
+1,16498,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",TV,25,R - 17+ (violence & profanity),2,Attack on Titan,2013,24.0
+2,5114,"Action, Military, Adventure, Comedy, Drama, Magic, Fantasy, Shounen",TV,64,R - 17+ (violence & profanity),3,Fullmetal Alchemist:Brotherhood,2009,24.0
+3,11757,"Action, Game, Adventure, Romance, Fantasy",TV,25,PG-13 - Teens 13 or older,4,Sword Art Online,2012,23.0
+4,30276,"Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural",TV,12,R - 17+ (violence & profanity),5,One Punch Man,2015,24.0
+5,31964,"Action, Comedy, School, Shounen, Super Power",TV,13,PG-13 - Teens 13 or older,6,My Hero Academia,2016,24.0
+6,22319,"Action, Mystery, Horror, Psychological, Supernatural, Drama, Seinen",TV,12,R - 17+ (violence & profanity),7,Tokyo Ghoul,2014,24.0
+7,20,"Action, Adventure, Comedy, Super Power, Martial Arts, Shounen",TV,220,PG-13 - Teens 13 or older,8,Naruto,2002,23.0
+8,9253,"Thriller, Sci-Fi",TV,24,PG-13 - Teens 13 or older,9,Steins;Gate,2011,24.0
+9,19815,"Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy",TV,12,PG-13 - Teens 13 or older,10,"No Game, No Life",2014,23.0
+10,32281,"Romance, Supernatural, School, Drama",Movie,1,PG-13 - Teens 13 or older,11,Your Name.,2016,106.0
+11,11061,"Action, Adventure, Fantasy, Shounen, Super Power",TV,148,PG-13 - Teens 13 or older,12,Hunter x Hunter,2011,23.0
+12,33486,"Action, Comedy, Super Power, School, Shounen",TV,25,PG-13 - Teens 13 or older,13,My Hero Academia 2,2017,23.0
+13,6547,"Action, Comedy, Drama, School, Supernatural",TV,13,PG-13 - Teens 13 or older,15,Angel Beats!,2010,24.0
+14,1575,"Action, Military, Sci-Fi, Super Power, Drama, Mecha, School",TV,25,R - 17+ (violence & profanity),15,Code Geass:Lelouch of the Rebellion,2006,24.0
+15,25777,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",TV,12,R - 17+ (violence & profanity),16,Attack on Titan Season 2,2017,24.0
+16,4224,"Slice of Life, Comedy, Romance, School",TV,25,PG-13 - Teens 13 or older,17,Toradora!,2008,24.0
+17,20507,"Action, Adventure, Comedy, Supernatural, Shounen",TV,12,PG-13 - Teens 13 or older,18,Noragami:Stray God,2014,24.0
+18,1735,"Action, Adventure, Comedy, Super Power, Martial Arts, Shounen",TV,500,PG-13 - Teens 13 or older,18,Naruto:Shippuden,2007,23.0
+19,10620,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,26,R+ - Mild Nudity,19,The Future Diary,2011,23.0
+20,31240,"Psychological, Drama, Thriller, Fantasy",TV,25,R - 17+ (violence & profanity),21,Re:ZERO -Starting Life in Another World-,2016,25.0
+21,23273,"Drama, Music, Romance, School, Shounen",TV,22,PG-13 - Teens 13 or older,22,Your Lie in April,2014,22.0
+22,21881,"Action, Game, Adventure, Romance, Fantasy",TV,24,PG-13 - Teens 13 or older,23,Sword Art Online II,2014,23.0
+23,38000,"Action, Demons, Historical, Shounen, Supernatural",TV,26,R - 17+ (violence & profanity),24,Demon Slayer:Kimetsu no Yaiba,2019,23.0
+24,9919,"Action, Demons, Fantasy, Shounen, Supernatural",TV,25,PG-13 - Teens 13 or older,25,Blue Exorcist,2011,24.0
+25,22199,"Action, Adventure, Drama, Fantasy, Shounen",TV,24,R - 17+ (violence & profanity),25,Akame ga Kill!,2014,23.0
+26,23755,"Action, Adventure, Ecchi, Fantasy, Magic, Shounen, Supernatural",TV,24,PG-13 - Teens 13 or older,27,The Seven Deadly Sins,2014,24.0
+27,28851,"Drama, School, Shounen",Movie,1,PG-13 - Teens 13 or older,28,A Silent Voice,2016,130.0
+28,31043,"Mystery, Psychological, Supernatural, Seinen",TV,12,R - 17+ (violence & profanity),29,ERASED,2016,23.0
+29,21,"Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen",TV,Unknown,PG-13 - Teens 13 or older,31,One Piece,1999,24.0
+30,36456,"Action, Comedy, Super Power, School, Shounen",TV,25,PG-13 - Teens 13 or older,31,My Hero Academia 3,2018,23.0
+31,6702,"Action, Adventure, Comedy, Magic, Fantasy, Shounen",TV,175,PG-13 - Teens 13 or older,32,Fairy Tail,2009,24.0
+32,269,"Action, Adventure, Comedy, Super Power, Supernatural, Shounen",TV,366,PG-13 - Teens 13 or older,33,Bleach,2004,24.0
+33,30831,"Adventure, Comedy, Fantasy, Magic, Parody, Supernatural",TV,10,PG-13 - Teens 13 or older,34,KonoSuba:God's Blessing on This Wonderful World!,2016,23.0
+34,18679,"Action, Comedy, Super Power, Ecchi, School",TV,24,PG-13 - Teens 13 or older,35,KILL la KILL,2013,24.0
+35,2904,"Action, Military, Sci-Fi, Super Power, Drama, Mecha",TV,25,R - 17+ (violence & profanity),36,Code Geass:Lelouch of the Rebellion R2,2008,24.0
+36,24833,"Action, Comedy, School, Shounen",TV,22,PG-13 - Teens 13 or older,37,Assassination Classroom,2015,23.0
+37,22535,"Action, Sci-Fi, Horror, Psychological, Drama, Seinen",TV,24,R - 17+ (violence & profanity),39,Parasyte -the maxim-,2014,23.0
+38,1,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,26,R - 17+ (violence & profanity),39,Cowboy Bebop,1998,24.0
+39,32182,"Action, Slice of Life, Comedy, Supernatural",TV,12,PG-13 - Teens 13 or older,40,Mob Psycho 100,2016,24.0
+40,199,"Adventure, Supernatural, Drama",Movie,1,PG - Children,41,Spirited Away,2001,125.0
+41,27899,"Action, Mystery, Horror, Psychological, Supernatural, Drama, Seinen",TV,12,R - 17+ (violence & profanity),42,Tokyo Ghoul √A,2015,24.0
+42,3588,"Action, Fantasy, Comedy, Supernatural, Shounen",TV,51,PG-13 - Teens 13 or older,43,Soul Eater,2008,24.0
+43,13601,"Action, Sci-Fi, Police, Psychological",TV,22,R - 17+ (violence & profanity),45,Psycho-Pass,2012,23.0
+44,11111,"Mystery, Horror, Supernatural, Thriller, School",TV,12,R - 17+ (violence & profanity),45,Another,2012,24.0
+45,2001,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,27,PG-13 - Teens 13 or older,46,Gurren Lagann,2007,24.0
+46,28223,"Game, Mystery, Psychological, Drama, Thriller",TV,12,R - 17+ (violence & profanity),48,Death Parade,2015,23.0
+47,35760,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",TV,12,R - 17+ (violence & profanity),48,Attack on Titan Season 3,2018,23.0
+48,226,"Action, Horror, Psychological, Supernatural, Drama, Romance, Seinen",TV,13,R+ - Mild Nudity,49,Elfen Lied,2004,25.0
+49,20583,"Comedy, Sports, Drama, School, Shounen",TV,25,PG-13 - Teens 13 or older,50,Haikyu!!,2014,24.0
+50,28171,"Ecchi, School, Shounen",TV,24,PG-13 - Teens 13 or older,51,Food Wars! Shokugeki no Soma,2015,25.0
+51,121,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,51,PG-13 - Teens 13 or older,52,Fullmetal Alchemist,2003,24.0
+52,9989,"Slice of Life, Supernatural, Drama",TV,11,PG-13 - Teens 13 or older,53,anohana:The Flower We Saw That Day,2011,22.0
+53,30,"Action, Sci-Fi, Dementia, Psychological, Drama, Mecha",TV,26,PG-13 - Teens 13 or older,54,Neon Genesis Evangelion,1995,24.0
+54,37779,"Sci-Fi, Mystery, Horror, Psychological, Thriller, Shounen",TV,12,R - 17+ (violence & profanity),55,The Promised Neverland,2019,22.0
+55,8074,"Action, Horror, Supernatural, Ecchi, Shounen",TV,12,R+ - Mild Nudity,55,High School of the Dead,2010,24.0
+56,6746,"Action, Mystery, Supernatural",TV,24,R - 17+ (violence & profanity),57,Durarara!!,2010,24.0
+57,2167,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,23,PG-13 - Teens 13 or older,58,Clannad,2007,24.0
+58,10087,"Action, Supernatural, Magic, Fantasy",TV,13,R - 17+ (violence & profanity),59,Fate/Zero,2011,28.0
+59,28121,"Action, Adventure, Comedy, Romance, Fantasy",TV,13,PG-13 - Teens 13 or older,60,Is It Wrong to Try to Pick Up Girls in a Dungeon?,2015,24.0
+60,5081,"Romance, Supernatural, Mystery, Vampire",TV,15,R - 17+ (violence & profanity),61,Bakemonogatari,2009,24.0
+61,15809,"Comedy, Demons, Supernatural, Romance, Fantasy",TV,13,PG-13 - Teens 13 or older,62,The Devil is a Part-Timer!,2013,24.0
+62,38524,"Action, Drama, Fantasy, Military, Mystery, Shounen, Super Power",TV,10,R - 17+ (violence & profanity),63,Attack on Titan Season 3 Part 2,2019,23.0
+63,28999,"Drama, School, Super Power",TV,13,PG-13 - Teens 13 or older,64,Charlotte,2015,24.0
+64,30503,"Action, Adventure, Comedy, Supernatural, Shounen",TV,13,PG-13 - Teens 13 or older,65,Noragami Aragoto,2015,24.0
+65,29803,"Action, Adventure, Fantasy, Game, Magic, Supernatural",TV,13,R - 17+ (violence & profanity),66,Overlord,2015,24.0
+66,33352,"Slice of Life, Drama, Fantasy",TV,13,PG-13 - Teens 13 or older,67,Violet Evergarden,2018,24.0
+67,11617,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,12,R+ - Mild Nudity,68,High School DxD,2012,24.0
+68,32937,"Adventure, Comedy, Parody, Supernatural, Magic, Fantasy",TV,10,PG-13 - Teens 13 or older,69,KonoSuba:God's Blessing on This Wonderful World! 2,2017,23.0
+69,34134,"Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural",TV,12,R - 17+ (violence & profanity),70,One Punch Man 2nd Season,2019,23.0
+70,35849,"Action, Drama, Mecha, Romance, Sci-Fi",TV,24,PG-13 - Teens 13 or older,71,DARLING in the FRANXX,2018,24.0
+71,14813,"Slice of Life, Comedy, Drama, Romance, School",TV,13,PG-13 - Teens 13 or older,72,My Teen Romantic Comedy SNAFU,2013,24.0
+72,14719,"Action, Adventure, Supernatural, Vampire, Shounen",TV,26,R - 17+ (violence & profanity),74,JoJo's Bizarre Adventure,2012,24.0
+73,9756,"Psychological, Drama, Magic, Thriller",TV,12,PG-13 - Teens 13 or older,74,Puella Magi Madoka Magica,2011,24.0
+74,10793,"Action, Sci-Fi, Super Power, Drama, Romance, Mecha",TV,22,R - 17+ (violence & profanity),75,Guilty Crown,2011,24.0
+75,14741,"Slice of Life, Comedy, Drama, Romance, School",TV,12,PG-13 - Teens 13 or older,77,"Love, Chunibyo & Other Delusions!",2012,24.0
+76,37450,"Comedy, Supernatural, Drama, Romance, School",TV,13,PG-13 - Teens 13 or older,78,Rascal Does Not Dream of Bunny Girl Senpai,2018,24.0
+77,38408,"Action, Comedy, Super Power, School, Shounen",TV,25,PG-13 - Teens 13 or older,79,My Hero Academia 4,2019,24.0
+78,6880,"Action, Horror, Sci-Fi, Shounen, Supernatural",TV,12,R - 17+ (violence & profanity),79,Deadman Wonderland,2011,24.0
+79,38691,"Sci-Fi, Adventure, Shounen",TV,24,PG-13 - Teens 13 or older,79,Dr. Stone,2019,24.0
+80,12189,"Mystery, School, Slice of Life",TV,22,PG-13 - Teens 13 or older,81,Hyouka,2012,25.0
+81,13759,"Slice of Life, Comedy, Drama, Romance, School",TV,24,PG-13 - Teens 13 or older,83,The Pet Girl of Sakurasou,2012,23.0
+82,37999,"Comedy, Psychological, Romance, School, Seinen",TV,12,PG-13 - Teens 13 or older,83,Kaguya-sama:Love is War,2019,25.0
+83,4181,"Slice of Life, Comedy, Supernatural, Drama, Romance",TV,24,PG-13 - Teens 13 or older,84,Clannad ~After Story~,2008,24.0
+84,35790,"Action, Adventure, Drama, Fantasy",TV,25,PG-13 - Teens 13 or older,85,The Rising of the Shield Hero,2019,24.0
+85,205,"Action, Adventure, Comedy, Historical, Samurai, Shounen",TV,26,R - 17+ (violence & profanity),86,Samurai Champloo,2004,24.0
+86,30654,"Action, Comedy, School, Shounen",TV,25,PG-13 - Teens 13 or older,86,Assassination Classroom Second Season,2016,23.0
+87,813,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,291,PG-13 - Teens 13 or older,88,Dragon Ball Z,1989,24.0
+88,26243,"Action, Military, Supernatural, Drama, Vampire, Shounen",TV,12,R - 17+ (violence & profanity),89,Seraph of the End:Vampire Reign,2015,23.0
+89,7054,"Comedy, Romance, School, Shoujo",TV,26,PG-13 - Teens 13 or older,90,Maid Sama!,2010,24.0
+90,17265,"Action, Game, Adventure, Magic, Fantasy",TV,25,PG-13 - Teens 13 or older,91,Log Horizon,2013,25.0
+91,164,"Action, Adventure, Fantasy",Movie,1,PG-13 - Teens 13 or older,91,Princess Mononoke,1997,135.0
+92,4898,"Action, Mystery, Comedy, Historical, Demons, Supernatural, Shounen",TV,24,R - 17+ (violence & profanity),92,Black Butler,2008,24.0
+93,28891,"Comedy, Sports, Drama, School, Shounen",TV,25,PG-13 - Teens 13 or older,94,Haikyu!! 2nd Season,2015,24.0
+94,34599,"Sci-Fi, Adventure, Mystery, Drama, Fantasy",TV,13,R - 17+ (violence & profanity),95,Made in Abyss,2017,25.0
+95,18897,"Harem, Comedy, Romance, School, Shounen",TV,20,PG-13 - Teens 13 or older,97,Nisekoi:False Love,2014,24.0
+96,34933,"Game, Mystery, Psychological, Drama, School, Shounen",TV,12,R - 17+ (violence & profanity),97,Kakegurui:Compulsive Gambler,2017,24.0
+97,34572,"Action, Comedy, Magic, Fantasy, Shounen",TV,170,PG-13 - Teens 13 or older,97,Black Clover,2017,23.0
+98,431,"Adventure, Drama, Fantasy, Romance",Movie,1,G - All Ages,98,Howl's Moving Castle,2004,119.0
+99,18153,"Slice of Life, Supernatural, Fantasy",TV,12,PG-13 - Teens 13 or older,99,Beyond the Boundary,2013,24.0
+100,37510,"Action, Slice of Life, Comedy, Supernatural",TV,13,PG-13 - Teens 13 or older,101,Mob Psycho 100 II,2019,24.0
+101,853,"Comedy, Harem, Romance, School, Shoujo",TV,26,PG-13 - Teens 13 or older,102,Ouran High School Host Club,2006,23.0
+102,23283,"Mystery, Psychological, Thriller",TV,11,R - 17+ (violence & profanity),103,Terror in Resonance,2014,22.0
+103,11771,"Comedy, School, Shounen, Sports",TV,25,PG-13 - Teens 13 or older,104,Kuroko's Basketball,2012,24.0
+104,11741,"Action, Supernatural, Magic, Fantasy",TV,12,R - 17+ (violence & profanity),105,Fate/Zero Season 2,2012,24.0
+105,32282,"Ecchi, School, Shounen",TV,13,PG-13 - Teens 13 or older,106,Food Wars! The Second Plate,2016,24.0
+106,31478,"Action, Comedy, Mystery, Seinen, Super Power, Supernatural",TV,12,R - 17+ (violence & profanity),107,Bungo Stray Dogs,2016,23.0
+107,5680,"Music, Slice of Life, Comedy, School",TV,13,PG-13 - Teens 13 or older,108,K-ON!,2009,24.0
+108,33206,"Slice of Life, Comedy, Fantasy",TV,13,PG-13 - Teens 13 or older,109,Miss Kobayashi's Dragon Maid,2017,24.0
+109,14513,"Action, Adventure, Fantasy, Magic, Shounen",TV,25,PG-13 - Teens 13 or older,110,Magi:The Labyrinth of Magic,2012,24.0
+110,14227,"Slice of Life, Comedy, Romance, School, Shoujo",TV,13,PG-13 - Teens 13 or older,111,My Little Monster,2012,24.0
+111,20785,"Action, Sci-Fi, Supernatural, Magic, Romance, School",TV,26,PG-13 - Teens 13 or older,112,The Irregular at Magic High School,2014,23.0
+112,2025,"Action, Sci-Fi, Mystery, Super Power",TV,25,R - 17+ (violence & profanity),113,Darker than Black,2007,24.0
+113,918,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,201,PG-13 - Teens 13 or older,114,Gintama,2006,24.0
+114,34577,"Action, Adventure, Fantasy, Magic, Shounen, Supernatural",TV,24,PG-13 - Teens 13 or older,115,The Seven Deadly Sins:Revival of the Commandments,2018,24.0
+115,849,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,14,PG-13 - Teens 13 or older,115,The Melancholy of Haruhi Suzumiya,2006,23.0
+116,37430,"Fantasy, Shounen",TV,24,PG-13 - Teens 13 or older,117,That Time I Got Reincarnated as a Slime,2018,23.0
+117,22297,"Action, Fantasy, Magic, Supernatural",TV,12,R - 17+ (violence & profanity),119,Fate/stay night [Unlimited Blade Works],2014,28.0
+118,40028,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",TV,16,R - 17+ (violence & profanity),119,Attack on Titan Final Season,2020,23.0
+119,356,"Action, Supernatural, Magic, Romance, Fantasy",TV,24,R - 17+ (violence & profanity),119,Fate/stay night,2006,24.0
+120,223,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,153,PG-13 - Teens 13 or older,120,Dragon Ball,1986,24.0
+121,523,"Adventure, Comedy, Supernatural",Movie,1,G - All Ages,121,My Neighbor Totoro,1988,86.0
+122,32935,"Comedy, Sports, Drama, School, Shounen",TV,10,PG-13 - Teens 13 or older,123,Haikyu!! 3rd Season,2016,24.0
+123,15583,"Sci-Fi, Harem, Comedy, Romance, Mecha, School",TV,12,R - 17+ (violence & profanity),123,Date A Live,2013,23.0
+124,23847,"Slice of Life, Comedy, Drama, Romance, School",TV,13,PG-13 - Teens 13 or older,124,My Teen Romantic Comedy SNAFU TOO!,2015,24.0
+125,30015,"Slice of Life, Romance, School",TV,13,PG-13 - Teens 13 or older,126,ReLIFE,2016,23.0
+126,20787,"Action, Sci-Fi, Mystery, Seinen",TV,13,R - 17+ (violence & profanity),127,Black Bullet,2014,24.0
+127,2251,"Action, Comedy, Historical, Mystery, Supernatural",TV,13,R - 17+ (violence & profanity),127,Baccano!,2007,24.0
+128,22043,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,102,PG-13 - Teens 13 or older,128,Fairy Tail Series 2,2014,24.0
+129,40748,"Action, Demons, Supernatural, School, Shounen",TV,24,R - 17+ (violence & profanity),130,Jujutsu Kaisen (TV),2020,23.0
+130,38671,"Action, Supernatural, Shounen",TV,24,PG-13 - Teens 13 or older,130,Fire Force,2019,23.0
+131,37349,"Action, Adventure, Fantasy",TV,12,R - 17+ (violence & profanity),131,Goblin Slayer,2018,23.0
+132,36511,"Action, Psychological, Supernatural, Mystery, Drama, Horror, Seinen",TV,12,R - 17+ (violence & profanity),132,Tokyo Ghoul:re,2018,24.0
+133,889,"Action, Seinen",TV,12,R - 17+ (violence & profanity),133,Black Lagoon,2006,24.0
+134,30240,"Comedy, Ecchi, Romance, School, Seinen",TV,12,R+ - Mild Nudity,136,Prison School,2015,24.0
+135,1689,"Drama, Romance, Slice of Life",Movie,3,PG-13 - Teens 13 or older,136,5 Centimeters Per Second,2007,22.0
+136,20899,"Action, Adventure, Supernatural, Drama, Shounen",TV,24,R - 17+ (violence & profanity),136,JoJo's Bizarre Adventure:Stardust Crusaders,2014,24.0
+137,16592,"Mystery, Horror, Psychological, School",TV,13,R - 17+ (violence & profanity),137,Danganronpa:The Animation,2013,24.0
+138,17895,"Comedy, Drama, Romance",TV,24,PG-13 - Teens 13 or older,138,Golden Time,2013,24.0
+139,14345,"Action, Sci-Fi, Psychological, Seinen",TV,12,R - 17+ (violence & profanity),140,BTOOOM!,2012,24.0
+140,37520,"Action, Adventure, Demons, Historical, Samurai, Shounen, Supernatural",TV,24,R - 17+ (violence & profanity),140,Dororo,2019,24.0
+141,23289,"Comedy, Romance, School",TV,12,PG-13 - Teens 13 or older,142,Monthly Girls' Nozaki-kun,2014,24.0
+142,777,"Action, Military, Horror, Supernatural, Vampire, Seinen",OVA,10,R - 17+ (violence & profanity),143,Hellsing Ultimate,2006,50.0
+143,15451,"Action, Harem, Comedy, Demons, Romance, Ecchi, School",TV,12,R+ - Mild Nudity,144,High School DxD New,2013,24.0
+144,37521,"Action, Adventure, Drama, Historical, Seinen",TV,24,R - 17+ (violence & profanity),145,Vinland Saga,2019,24.0
+145,35788,"Ecchi, School, Shounen",TV,12,PG-13 - Teens 13 or older,146,Food Wars! The Third Plate,2017,24.0
+146,1195,"Action, Adventure, Harem, Comedy, Magic, Romance, Ecchi, Fantasy, School",TV,13,PG-13 - Teens 13 or older,147,The Familiar of Zero,2006,23.0
+147,36474,"Action, Game, Adventure, Romance, Fantasy",TV,24,R - 17+ (violence & profanity),148,Sword Art Online:Alicization,2018,24.0
+148,35073,"Action, Game, Adventure, Supernatural, Magic, Fantasy",TV,13,R - 17+ (violence & profanity),148,Overlord II,2018,23.0
+149,6045,"Slice of Life, Drama, Romance, School, Shoujo",TV,25,PG-13 - Teens 13 or older,148,Kimi ni Todoke:From Me to You,2009,22.0
+150,40591,"Comedy, Psychological, Romance, School, Seinen",TV,12,PG-13 - Teens 13 or older,151,Kaguya-sama:Love is War Season 2,2020,24.0
+151,10165,"Slice of Life, Comedy, School, Shounen",TV,26,PG-13 - Teens 13 or older,153,Nichijou - My Ordinary Life,2011,23.0
+152,2966,"Adventure, Fantasy, Historical, Romance",TV,13,PG-13 - Teens 13 or older,153,Spice and Wolf,2008,24.0
+153,35120,"Action, Dementia, Demons, Horror, Supernatural",ONA,10,R+ - Mild Nudity,153,Devilman:Crybaby,2018,25.0
+154,27775,"Sci-Fi, Drama, Romance",TV,13,PG-13 - Teens 13 or older,154,Plastic Memories,2015,24.0
+155,934,"Mystery, Dementia, Horror, Psychological, Supernatural, Thriller",TV,26,R - 17+ (violence & profanity),156,When They Cry,2006,24.0
+156,10719,"Ecchi, Slice of Life, Comedy, Harem, Romance, School",TV,12,R+ - Mild Nudity,156,Haganai:I don't have many friends,2011,24.0
+157,30296,"Action, Romance, Ecchi, Fantasy, School",TV,12,R - 17+ (violence & profanity),158,Chivalry of a Failed Knight,2015,23.0
+158,26055,"Action, Adventure, Supernatural, Drama, Shounen",TV,24,R - 17+ (violence & profanity),159,JoJo's Bizarre Adventure:Stardust Crusaders - Battle in Egypt,2015,23.0
+159,18115,"Action, Adventure, Magic, Fantasy, Shounen",TV,25,PG-13 - Teens 13 or older,160,Magi:The Kingdom of Magic,2013,25.0
+160,11887,"Slice of Life, Comedy, Supernatural, Drama, Romance, School",TV,13,PG-13 - Teens 13 or older,161,Kokoro Connect,2012,24.0
+161,4654,"Action, Magic, Sci-Fi, Super Power",TV,24,R - 17+ (violence & profanity),161,A Certain Magical Index,2008,23.0
+162,31933,"Action, Adventure, Comedy, Supernatural, Drama, Shounen",TV,39,R - 17+ (violence & profanity),163,JoJo's Bizarre Adventure:Diamond is Unbreakable,2016,23.0
+163,24439,"Action, Comedy, Super Power, Supernatural, Vampire, Fantasy, Shounen",TV,12,R - 17+ (violence & profanity),164,Blood Blockade Battlefront,2015,26.0
+164,35062,"Slice of Life, Magic, Fantasy, Shounen",TV,24,PG-13 - Teens 13 or older,165,The Ancient Magus' Bride,2017,24.0
+165,2236,"Adventure, Drama, Romance, Sci-Fi",Movie,1,G - All Ages,166,The Girl Who Leapt Through Time,2006,98.0
+166,457,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen",TV,26,PG-13 - Teens 13 or older,167,Mushi-Shi,2005,25.0
+167,13125,"Drama, Horror, Mystery, Psychological, Sci-Fi, Supernatural",TV,25,R - 17+ (violence & profanity),168,From the New World,2012,22.0
+168,39587,"Psychological, Drama, Thriller, Fantasy",TV,13,R - 17+ (violence & profanity),169,Re:ZERO -Starting Life in Another World- Season 2,2020,26.0
+169,19,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV,74,R+ - Mild Nudity,169,Monster,2004,24.0
+170,12355,"Fantasy, Slice of Life",Movie,1,PG - Children,170,Wolf Children,2012,117.0
+171,227,"Action, Sci-Fi, Comedy, Parody, Dementia, Psychological, Mecha",OVA,6,PG-13 - Teens 13 or older,171,FLCL,2000,25.0
+172,33674,"Game, Supernatural, Drama, Romance, Fantasy",Movie,1,PG-13 - Teens 13 or older,173,No Game No Life: Zero,2017,106.0
+173,25157,"Action, Harem, Comedy, Supernatural, Magic, Romance, Ecchi, Fantasy, School, Shounen",TV,12,PG-13 - Teens 13 or older,174,Trinity Seven,2014,24.0
+174,28701,"Action, Fantasy, Magic, Supernatural",TV,13,R - 17+ (violence & profanity),175,Fate/stay night [Unlimited Blade Works] Season 2,2015,23.0
+175,32615,"Action, Military, Magic",TV,12,R - 17+ (violence & profanity),177,The Saga of Tanya the Evil,2017,24.0
+176,28907,"Action, Adventure, Fantasy, Military",TV,12,R - 17+ (violence & profanity),177,GATE,2015,23.0
+177,11759,"Action, Game, Sci-Fi, Romance, School",TV,24,PG-13 - Teens 13 or older,178,Accel World,2012,24.0
+178,14467,"Action, Mystery, Super Power, Supernatural",TV,13,PG-13 - Teens 13 or older,178,K,2012,24.0
+179,11843,"Slice of Life, Comedy, School",TV,12,PG-13 - Teens 13 or older,180,Daily Lives of High School Boys,2012,24.0
+180,28623,"Action, Horror, Supernatural, Drama, Fantasy",TV,12,R - 17+ (violence & profanity),181,Kabaneri of the Iron Fortress,2016,22.0
+181,21995,"Comedy, Drama, Romance, School, Shoujo, Slice of Life",TV,12,PG-13 - Teens 13 or older,182,Blue Spring Ride,2014,23.0
+182,33255,"Comedy, School, Shounen, Slice of Life, Supernatural",TV,120,PG-13 - Teens 13 or older,183,The Disastrous Life of Saiki K.,2016,5.0
+183,245,"Slice of Life, Comedy, Drama, School, Shounen",TV,43,R - 17+ (violence & profanity),184,Great Teacher Onizuka,1999,25.0
+184,25013,"Action, Adventure, Comedy, Fantasy, Romance, Shoujo",TV,24,PG-13 - Teens 13 or older,185,Yona of the Dawn,2014,24.0
+185,30484,"Sci-Fi, Thriller",TV,23,PG-13 - Teens 13 or older,185,Steins;Gate 0,2018,23.0
+186,16894,"Comedy, Sports, School, Shounen",TV,25,PG-13 - Teens 13 or older,185,Kuroko's Basketball 2,2013,24.0
+187,249,"Action, Adventure, Comedy, Historical, Demons, Supernatural, Magic, Romance, Fantasy, Shounen",TV,167,PG-13 - Teens 13 or older,187,InuYasha,2000,24.0
+188,18507,"Slice of Life, Comedy, Sports, Drama, School",TV,12,PG-13 - Teens 13 or older,189,Free! - Iwatobi Swim Club,2013,24.0
+189,35507,"Slice of Life, Psychological, Drama, School",TV,12,PG-13 - Teens 13 or older,190,Classroom of the Elite,2017,24.0
+190,32995,"Comedy, Sports",TV,12,PG-13 - Teens 13 or older,191,Yuri!!! On ICE,2016,23.0
+191,16782,"Slice of Life, Psychological, Drama, Romance",Movie,1,PG-13 - Teens 13 or older,192,The Garden of Words,2013,46.0
+192,24703,"Action, Comedy, Demons, Ecchi, Harem, Romance, School",TV,12,R+ - Mild Nudity,193,High School DxD BorN,2015,24.0
+193,1482,"Action, Adventure, Comedy, Super Power, Demons, Shounen",TV,103,PG-13 - Teens 13 or older,194,D.Gray-man,2006,23.0
+194,32,"Sci-Fi, Dementia, Psychological, Drama, Mecha",Movie,1,R+ - Mild Nudity,195,Neon Genesis Evangelion:The End of Evangelion,1997,87.0
+195,11597,"Mystery, Comedy, Supernatural, Ecchi",TV,11,R - 17+ (violence & profanity),195,Nisemonogatari,2012,24.0
+196,8769,"Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,196,OreImo,2010,24.0
+197,47,"Action, Military, Sci-Fi, Adventure, Horror, Supernatural, Seinen",Movie,1,R+ - Mild Nudity,197,AKIRA,1988,124.0
+198,28677,"Harem, Mystery, Comedy, Supernatural, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,199,Yamada-kun and the Seven Witches,2015,24.0
+199,10408,"Drama, Romance, Shoujo, Supernatural",Movie,1,G - All Ages,199,Hotarubi no Mori e,2011,45.0
+200,29786,"Comedy, Ecchi, School",TV,12,R+ - Mild Nudity,201,SHIMONETA:A Boring World Where the Concept of Dirty Jokes Doesn't Exist,2015,23.0
+201,6,"Action, Sci-Fi, Adventure, Comedy, Drama, Shounen",TV,26,PG-13 - Teens 13 or older,201,Trigun,1998,24.0
+202,1210,"Comedy, Psychological, Drama, Romance",TV,24,R+ - Mild Nudity,203,Welcome to the N.H.K.,2006,24.0
+203,270,"Action, Horror, Supernatural, Vampire, Seinen",TV,13,R - 17+ (violence & profanity),205,Hellsing,2001,23.0
+204,37675,"Action, Magic, Fantasy, Game, Supernatural",TV,13,R - 17+ (violence & profanity),205,Overlord III,2018,23.0
+205,33487,"Comedy, Harem, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,207,Masamune-kun's Revenge,2017,24.0
+206,1818,"Action, Adventure, Super Power, Demons, Supernatural, Fantasy, Shounen",TV,26,R+ - Mild Nudity,208,Claymore,2007,23.0
+207,2993,"Harem, Comedy, Romance, Ecchi, Vampire, Fantasy, School, Shounen",TV,13,R+ - Mild Nudity,208,Rosario + Vampire,2008,25.0
+208,32542,"Slice of Life, Comedy, School, Seinen",TV,12,PG-13 - Teens 13 or older,209,Haven't You Heard? I'm Sakamoto,2016,24.0
+209,32729,"Sci-Fi, Drama, Romance, School, Shoujo",TV,13,PG-13 - Teens 13 or older,210,Orange,2016,24.0
+210,37991,"Action, Adventure, Shounen",TV,39,R - 17+ (violence & profanity),211,JoJo's Bizarre Adventure:Golden Wind,2018,23.0
+211,30694,"Action, Adventure, Comedy, Super Power, Martial Arts, Fantasy, Shounen",TV,131,PG-13 - Teens 13 or older,212,Dragon Ball Super,2015,23.0
+212,31798,"Sci-Fi, Drama, Romance",TV,12,PG-13 - Teens 13 or older,213,Kiznaiver,2016,24.0
+213,30307,"Harem, Comedy, Romance, Ecchi, Fantasy, Seinen",TV,12,R+ - Mild Nudity,214,Monster Musume:Everyday Life with Monster Girls,2015,23.0
+214,31859,"Action, Adventure, Drama, Fantasy",TV,12,PG-13 - Teens 13 or older,215,Grimgar:Ashes and Illusions,2016,24.0
+215,11633,"Action, Comedy, Demons, Seinen, Supernatural, Vampire",TV,10,PG-13 - Teens 13 or older,217,Blood Lad,2013,24.0
+216,28927,"Action, Military, Supernatural, Drama, Vampire, Shounen",TV,12,R - 17+ (violence & profanity),218,Seraph of the End:Battle in Nagoya,2015,23.0
+217,1887,"Slice of Life, Comedy, Parody, School",TV,24,PG-13 - Teens 13 or older,218,Lucky☆Star,2007,24.0
+218,40221,"Action, Adventure, Mystery, Drama, Fantasy",TV,13,PG-13 - Teens 13 or older,219,Tower of God,2020,23.0
+219,6347,"Comedy, Romance, School, Super Power",TV,13,PG-13 - Teens 13 or older,221,Baka & Test - Summon the Beasts,2010,24.0
+220,35968,"Comedy, Romance, Slice of Life",TV,11,PG-13 - Teens 13 or older,222,Wotakoi:Love is Hard for Otaku,2018,22.0
+221,33506,"Action, Demons, Supernatural, Fantasy, Shounen",TV,12,PG-13 - Teens 13 or older,222,Blue Exorcist:Kyoto Saga,2017,24.0
+222,8841,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,12,R - 17+ (violence & profanity),223,Is This a Zombie?,2011,24.0
+223,34566,"Action, Adventure, Super Power, Martial Arts, Shounen",TV,Unknown,PG-13 - Teens 13 or older,223,Boruto:Naruto Next Generations,2017,23.0
+224,2476,"Harem, Drama, Romance, School",TV,12,R+ - Mild Nudity,225,School Days,2007,25.0
+225,18671,"Comedy, Drama, Romance, School, Slice of Life",TV,12,PG-13 - Teens 13 or older,226,"Love, Chunibyo & Other Delusions!:Heart Throb",2014,24.0
+226,32901,"Comedy, Drama, Romance, Ecchi",TV,12,PG-13 - Teens 13 or older,227,Eromanga Sensei,2017,23.0
+227,16742,"Slice of Life, Comedy, School",TV,12,PG-13 - Teens 13 or older,227,"WataMote:No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!",2013,24.0
+228,31765,"Action, Game, Adventure, Romance, Fantasy",Movie,1,R+ - Mild Nudity,229,Sword Art Online the Movie -Ordinal Scale-,2017,119.0
+229,8525,"Comedy, Harem, Romance, Shounen, Supernatural",TV,12,PG-13 - Teens 13 or older,230,The World God Only Knows,2010,23.0
+230,17074,"Mystery, Comedy, Supernatural, Romance, Vampire",TV,26,R - 17+ (violence & profanity),232,Monogatari Series:Second Season,2013,24.0
+231,24415,"Comedy, Sports, School, Shounen",TV,25,PG-13 - Teens 13 or older,232,Kuroko's Basketball 3,2015,24.0
+232,7791,"Comedy, Music, School, Slice of Life",TV,26,PG-13 - Teens 13 or older,233,K-ON! Season 2,2010,24.0
+233,23281,"Action, Sci-Fi, Police, Psychological",TV,11,R - 17+ (violence & profanity),234,Psycho-Pass 2,2014,23.0
+234,22789,"Comedy, Slice of Life",TV,12,PG-13 - Teens 13 or older,235,Barakamon,2014,22.0
+235,9041,"Action, Sci-Fi, Harem, Comedy, Ecchi, Mecha",TV,12,PG-13 - Teens 13 or older,236,Infinite Stratos,2011,24.0
+236,37347,"Action, Adventure, Comedy, Romance, Fantasy",TV,12,PG-13 - Teens 13 or older,237,Is It Wrong to Try to Pick Up Girls in a Dungeon? II,2019,24.0
+237,18277,"Action, Harem, Supernatural, Ecchi, Vampire, Fantasy, School",TV,24,R+ - Mild Nudity,238,Strike the Blood,2013,24.0
+238,27787,"Comedy, Harem, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,239,Nisekoi:False Love,2015,24.0
+239,22147,"Comedy, Drama, Fantasy, Magic",TV,13,PG-13 - Teens 13 or older,240,Amagi Brilliant Park,2014,24.0
+240,28825,"Comedy, School, Seinen, Slice of Life",TV,12,PG-13 - Teens 13 or older,241,Himouto! Umaru-chan,2015,24.0
+241,7674,"Comedy, Drama, Romance, Shounen",TV,25,PG-13 - Teens 13 or older,242,Bakuman.,2010,24.0
+242,7311,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,1,PG-13 - Teens 13 or older,243,The Disappearance of Haruhi Suzumiya,2010,162.0
+243,3455,"Sci-Fi, Harem, Comedy, Romance, Ecchi, School, Shounen",TV,26,R+ - Mild Nudity,245,To LOVE Ru,2008,24.0
+244,23321,"Action, Game, Adventure, Magic, Fantasy",TV,25,PG-13 - Teens 13 or older,245,Log Horizon 2,2014,24.0
+245,28497,"Action, Adventure, Fantasy, Magic, Mystery",TV,12,PG-13 - Teens 13 or older,245,Rokka:Braves of the Six Flowers,2015,24.0
+246,14075,"Action, Mystery, Psychological, Drama, Magic, Fantasy, Shounen",TV,24,PG-13 - Teens 13 or older,247,Blast of Tempest,2012,24.0
+247,39617,"Sci-Fi, Mystery, Psychological, Thriller, Shounen",TV,11,R - 17+ (violence & profanity),248,The Promised Neverland Season 2,2021,22.0
+248,32867,"Action, Mystery, Seinen, Super Power, Supernatural",TV,12,R - 17+ (violence & profanity),248,Bungo Stray Dogs 2,2016,23.0
+249,790,"Psychological, Mystery, Sci-Fi",TV,23,R - 17+ (violence & profanity),249,Ergo Proxy,2006,25.0
+250,34902,"Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,249,Tsuredure Children,2017,12.0
+251,30544,"Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi, Supernatural",TV,12,PG-13 - Teens 13 or older,250,The Asterisk War,2015,23.0
+252,41353,"Action, Sci-Fi, Adventure, Comedy, Supernatural, Martial Arts, Fantasy",TV,13,PG-13 - Teens 13 or older,253,The God of High School,2020,23.0
+253,3457,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,13,PG-13 - Teens 13 or older,254,Vampire Knight,2008,24.0
+254,339,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",TV,13,R - 17+ (violence & profanity),255,Serial Experiments Lain,1998,23.0
+255,14289,"Drama, Romance, School, Shoujo",TV,13,PG-13 - Teens 13 or older,256,"Say ""I Love You"".",2012,24.0
+256,392,"Action, Comedy, Demons, Supernatural, Martial Arts, Shounen",TV,112,PG-13 - Teens 13 or older,257,Yu Yu Hakusho:Ghost Files,1992,24.0
+257,28297,"Comedy, Romance, Shoujo",TV,24,PG-13 - Teens 13 or older,258,My Love Story!!,2015,22.0
+258,32951,"Action, Magic, Fantasy, School",TV,12,R - 17+ (violence & profanity),258,Akashic Records of Bastard Magic Instructor,2017,24.0
+259,38826,"Slice of Life, Drama, Romance, Fantasy",Movie,1,PG-13 - Teens 13 or older,259,Weathering With You,2019,114.0
+260,36949,"Ecchi, School, Shounen",TV,12,PG-13 - Teens 13 or older,259,Food Wars! The Third Plate:Totsuki Train Arc,2018,24.0
+261,23233,"Action, Ecchi, Fantasy, Romance, Harem, Demons",TV,12,R+ - Mild Nudity,261,The Testament of Sister New Devil,2015,23.0
+262,31722,"Action, Adventure, Ecchi, Fantasy, Magic, Shounen, Supernatural",TV,4,PG-13 - Teens 13 or older,262,The Seven Deadly Sins:Signs of Holy War,2016,24.0
+263,225,"Action, Sci-Fi, Adventure, Comedy, Super Power, Magic, Fantasy, Shounen",TV,64,PG-13 - Teens 13 or older,262,Dragon Ball GT,1996,23.0
+264,32998,"Action, Drama, Historical",TV,12,R - 17+ (violence & profanity),265,91 Days,2016,24.0
+265,43,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",Movie,1,R+ - Mild Nudity,265,Ghost in the Shell,1995,82.0
+266,37799,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,12,R - 17+ (violence & profanity),268,Tokyo Ghoul:re 2nd Season,2018,24.0
+267,16067,"Drama, Fantasy, Romance",TV,26,PG-13 - Teens 13 or older,269,A Lull in the Sea,2013,23.0
+268,11499,"Comedy, Ecchi, Horror, Romance, Shounen, Supernatural",TV,12,R+ - Mild Nudity,270,Sankarea:Undying Love,2012,24.0
+269,32949,"Drama, Romance, School, Seinen",TV,12,R+ - Mild Nudity,272,Scum's Wish,2017,22.0
+270,7724,"Horror, Mystery, Supernatural, Thriller, Vampire",TV,22,R - 17+ (violence & profanity),272,Shiki,2010,22.0
+271,5630,"Action, Sci-Fi, Mystery, Drama, Romance, Thriller",TV,11,R - 17+ (violence & profanity),274,Eden of The East,2009,23.0
+272,38883,"Comedy, Sports, Drama, School, Shounen",TV,13,PG-13 - Teens 13 or older,276,Haikyuu!!: To the Top,2020,24.0
+273,15315,"Action, Comedy, Fantasy, Supernatural",TV,10,PG-13 - Teens 13 or older,277,"Problem children are coming from another world, aren't they?",2013,23.0
+274,527,"Action, Adventure, Comedy, Kids, Fantasy",TV,276,PG - Children,277,Pokémon,1997,24.0
+275,33489,"Adventure, Comedy, Fantasy, Magic, School",TV,25,G - All Ages,279,Little Witch Academia,2017,24.0
+276,355,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,24,PG-13 - Teens 13 or older,279,Shakugan no Shana:Season I,2005,24.0
+277,1604,"Action, Comedy, Shounen, Super Power",TV,203,PG-13 - Teens 13 or older,279,Reborn!,2006,24.0
+278,31646,"Drama, Game, Seinen, Slice of Life",TV,22,PG-13 - Teens 13 or older,280,March comes in like a lion,2016,25.0
+279,9513,"Action, Comedy, Demons, Supernatural, School, Shounen",TV,60,PG-13 - Teens 13 or older,280,Beelzebub,2011,24.0
+280,39195,"Slice of Life, Psychological, Drama, Shounen",TV,12,R - 17+ (violence & profanity),281,Beastars,2019,22.0
+281,6213,"Action, Sci-Fi, Super Power",TV,24,PG-13 - Teens 13 or older,281,A Certain Scientific Railgun,2009,24.0
+282,34280,"Game, Comedy, Romance, School",TV,12,PG-13 - Teens 13 or older,283,Gamers!,2017,24.0
+283,30123,"Fantasy, Romance, Drama, Shoujo",TV,12,PG-13 - Teens 13 or older,284,Snow White with the Red Hair,2015,24.0
+284,17729,"Drama, Harem, Psychological, Romance, School",TV,13,R+ - Mild Nudity,284,The Fruit of Grisaia,2014,23.0
+285,34618,"Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,286,BLEND-S,2017,23.0
+286,23277,"Harem, Comedy, Romance, Ecchi, School",TV,12,PG-13 - Teens 13 or older,287,Saekano:How to Raise a Boring Girlfriend,2015,23.0
+287,11577,"Sci-Fi, Drama",Movie,1,PG-13 - Teens 13 or older,288,Steins;Gate:The Movie − Load Region of Déjà Vu,2013,90.0
+288,19163,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,10,R - 17+ (violence & profanity),290,Date A Live II,2014,24.0
+289,31580,"Action, Mystery, Horror, Supernatural, Seinen",TV,13,R - 17+ (violence & profanity),290,Ajin:Demi-Human,2016,24.0
+290,6594,"Action, Adventure, Historical, Martial Arts, Romance",TV,12,R - 17+ (violence & profanity),291,Katanagatari,2010,50.0
+291,40839,"Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,291,Rent-a-Girlfriend,2020,24.0
+292,7593,"Harem, Comedy, Romance, Ecchi, School, Seinen",TV,12,R+ - Mild Nudity,292,Kiss x Sis (TV),2010,24.0
+293,578,"Drama, Historical",Movie,1,PG-13 - Teens 13 or older,293,Grave of the Fireflies,1988,88.0
+294,38101,"Harem, Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,293,The Quintessential Quintuplets,2019,24.0
+295,37141,"Comedy, Shounen",TV,13,PG-13 - Teens 13 or older,295,Cells at Work!,2018,23.0
+296,6707,"Action, Comedy, Historical, Demons, Supernatural, Shounen",TV,12,R - 17+ (violence & profanity),298,Black Butler II,2010,24.0
+297,22729,"Action, Military, Sci-Fi, Mecha",TV,12,R - 17+ (violence & profanity),299,Aldnoah.Zero,2014,23.0
+298,14713,"Comedy, Demons, Supernatural, Romance, Fantasy, Shoujo",TV,13,PG-13 - Teens 13 or older,299,Kamisama Kiss,2012,24.0
+299,2034,"Comedy, Romance, Shoujo",TV,24,PG-13 - Teens 13 or older,299,Lovely Complex,2007,24.0
+300,36098,Drama,Movie,1,PG-13 - Teens 13 or older,300,I want to eat your pancreas,2018,108.0
+301,33,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",TV,25,R+ - Mild Nudity,301,Berserk,1997,25.0
+302,37086,"Drama, Game, Mystery, Psychological, School, Shounen",TV,12,R - 17+ (violence & profanity),303,Kakegurui××,2019,24.0
+303,25183,"Action, Drama, Seinen",TV,12,R - 17+ (violence & profanity),303,Gangsta.,2015,23.0
+304,37210,"Comedy, Ecchi, Fantasy, Harem, Magic",TV,12,PG-13 - Teens 13 or older,307,How Not to Summon a Demon Lord,2018,23.0
+305,4382,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,14,PG-13 - Teens 13 or older,307,The Melancholy of Haruhi Suzumiya Season 2,2009,24.0
+306,8425,"Mystery, Historical, Drama, Romance",TV,24,R - 17+ (violence & profanity),307,Gosick,2011,24.0
+307,39597,"Action, Game, Adventure, Romance, Fantasy",TV,12,R - 17+ (violence & profanity),308,Sword Art Online Alicization War of Underworld,2019,23.0
+308,36896,"Action, Shounen, Super Power",Movie,1,PG-13 - Teens 13 or older,310,My Hero Academia:Two Heroes,2018,96.0
+309,5681,"Sci-Fi, Comedy",Movie,1,PG-13 - Teens 13 or older,311,Summer Wars,2009,114.0
+310,27631,"Action, Fantasy, Military, Sci-Fi",TV,13,R - 17+ (violence & profanity),311,God Eater,2015,23.0
+311,14967,"Harem, Slice of Life, Comedy, Romance, School",TV,12,R+ - Mild Nudity,311,Haganai:I don't have many friends NEXT,2013,24.0
+312,25397,"Action, Harem, Supernatural, Romance, Ecchi, School",TV,12,R - 17+ (violence & profanity),312,Absolute Duo,2015,24.0
+313,120,"Slice of Life, Comedy, Supernatural, Drama, Romance, Shoujo",TV,26,PG-13 - Teens 13 or older,314,Fruits Basket,2001,24.0
+314,36475,"Action, Fantasy, Game, Military, Sci-Fi",TV,12,PG-13 - Teens 13 or older,316,Sword Art Online Alternative: Gun Gale Online,2018,23.0
+315,15689,"Comedy, Supernatural, Romance, Ecchi",TV,4,R - 17+ (violence & profanity),317,Nekomonogatari Black,2012,24.0
+316,37105,"Slice of Life, Comedy, Seinen",TV,12,PG-13 - Teens 13 or older,317,Grand Blue Dreaming,2018,24.0
+317,34542,"Action, Drama, Psychological, Sci-Fi, Seinen",TV,11,R - 17+ (violence & profanity),318,Inuyashiki:Last Hero,2017,22.0
+318,1840,"Action, Adventure, Harem, Comedy, Magic, Romance, Ecchi, Fantasy, School",TV,12,PG-13 - Teens 13 or older,319,The Familiar of Zero:Knight of the Twin Moons,2007,23.0
+319,136,"Action, Adventure, Super Power, Fantasy, Shounen",TV,62,PG-13 - Teens 13 or older,319,Hunter x Hunter,1999,23.0
+320,38040,"Adventure, Comedy, Fantasy, Magic, Parody, Supernatural",Movie,1,PG-13 - Teens 13 or older,321,KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson,2019,90.0
+321,31637,"Action, Military, Adventure, Fantasy",TV,12,R - 17+ (violence & profanity),322,GATE,2016,23.0
+322,71,"Action, Military, Sci-Fi, Comedy, Mecha",TV,24,R - 17+ (violence & profanity),322,Full Metal Panic!,2002,24.0
+323,36649,"Action, Adventure, Drama, Shoujo",TV,24,R - 17+ (violence & profanity),323,Banana Fish,2018,22.0
+324,40852,"Sci-Fi, Adventure, Shounen",TV,11,PG-13 - Teens 13 or older,325,Dr. Stone: Stone Wars,2021,24.0
+325,4081,"Slice of Life, Demons, Supernatural, Drama, Shoujo",TV,13,PG-13 - Teens 13 or older,325,Natsume's Book of Friends,2008,24.0
+326,31339,"Action, Adventure, Comedy, Historical, Samurai, Fantasy, Seinen",TV,12,R - 17+ (violence & profanity),326,Drifters,2016,23.0
+327,39701,"Action, Adventure, Supernatural, Magic, Fantasy, Shounen",TV,24,PG-13 - Teens 13 or older,327,The Seven Deadly Sins:Wrath of the Gods,2019,24.0
+328,877,"Music, Slice of Life, Comedy, Drama, Romance, Shoujo",TV,47,R+ - Mild Nudity,328,Nana,2006,23.0
+329,28977,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,51,PG-13 - Teens 13 or older,329,Gintama Season 4,2015,24.0
+330,11013,"Comedy, Supernatural, Romance, Shounen",TV,12,PG-13 - Teens 13 or older,331,Inu X Boku Secret Service,2012,24.0
+331,37982,"Drama, Romance, School, Shounen",TV,12,R+ - Mild Nudity,332,Domestic Girlfriend,2019,25.0
+332,59,"Sci-Fi, Comedy, Drama, Romance, Ecchi, Seinen",TV,26,PG-13 - Teens 13 or older,332,Chobits,2002,24.0
+333,7088,"Action, Harem, Comedy, Magic, Ecchi, Fantasy, School",TV,12,R+ - Mild Nudity,333,Demon King Daimao,2010,23.0
+334,14749,"Comedy, Harem, Romance, School",TV,13,PG-13 - Teens 13 or older,335,Oreshura,2013,23.0
+335,5341,"Adventure, Historical, Romance, Fantasy",TV,12,PG-13 - Teens 13 or older,336,Spice and Wolf II,2009,24.0
+336,8675,"Comedy, School, Shounen, Slice of Life",TV,13,R - 17+ (violence & profanity),337,Seitokai Yakuindomo,2010,24.0
+337,5958,"Sci-Fi, Harem, Comedy, Supernatural, Romance, Ecchi, Shounen",TV,13,PG-13 - Teens 13 or older,338,Heaven's Lost Property,2009,24.0
+338,10162,"Slice of Life, Josei",TV,11,PG-13 - Teens 13 or older,339,Bunny Drop,2011,22.0
+339,10110,"Harem, Comedy, Romance, Ecchi, School",TV,13,R+ - Mild Nudity,341,Mayo Chiki!,2011,24.0
+340,437,"Dementia, Drama, Horror, Psychological",Movie,1,R+ - Mild Nudity,342,Perfect Blue,1998,80.0
+341,31442,"Action, Comedy, Fantasy, Slice of Life, Supernatural",TV,13,PG-13 - Teens 13 or older,342,Myriad Colors Phantom World,2016,24.0
+342,39547,"Slice of Life, Comedy, Drama, Romance, School",TV,12,PG-13 - Teens 13 or older,343,My Teen Romantic Comedy SNAFU Climax!,2020,24.0
+343,23199,"Action, Mystery, Supernatural",TV,12,R - 17+ (violence & profanity),344,Durarara!! x2 Shou,2015,24.0
+344,1889,"Mystery, Psychological, Supernatural, Thriller",TV,24,R - 17+ (violence & profanity),344,When They Cry:Kai,2007,24.0
+345,263,"Comedy, Sports, Drama, Shounen",TV,75,PG-13 - Teens 13 or older,345,Fighting Spirit,2000,23.0
+346,45,"Action, Adventure, Comedy, Historical, Romance, Samurai, Shounen",TV,94,PG-13 - Teens 13 or older,345,Rurouni Kenshin,1996,25.0
+347,31404,"Game, Comedy, Romance, Ecchi, School",TV,12,PG-13 - Teens 13 or older,348,And you thought there is never a girl online?,2016,24.0
+348,512,"Adventure, Comedy, Drama, Magic, Romance, Fantasy",Movie,1,G - All Ages,350,Kiki's Delivery Service,1989,105.0
+349,1519,"Action, Seinen",TV,12,R - 17+ (violence & profanity),350,Black Lagoon:The Second Barrage,2006,24.0
+350,35994,"Adventure, Horror, Psychological, Thriller",TV,16,R - 17+ (violence & profanity),351,Angels of Death,2018,23.0
+351,237,"Adventure, Drama, Mecha, Romance, Sci-Fi",TV,50,PG-13 - Teens 13 or older,351,Eureka Seven,2005,24.0
+352,1691,"Action, Magic, Romance, Fantasy, Shounen",TV,24,PG-13 - Teens 13 or older,353,Kaze no Stigma,2007,24.0
+353,21603,"Sci-Fi, Comedy, Super Power, Supernatural, Romance",TV,12,PG-13 - Teens 13 or older,354,MEKAKUCITY ACTORS,2014,23.0
+354,16011,"Action, Comedy, Supernatural, Magic, Romance, School",TV,24,PG-13 - Teens 13 or older,355,Tokyo Ravens,2013,23.0
+355,32105,"Action, Supernatural, Romance, Fantasy, Shounen",TV,50,PG-13 - Teens 13 or older,356,Twin Star Exorcists,2016,24.0
+356,38680,"Comedy, Drama, Romance, Shoujo, Slice of Life, Supernatural",TV,25,PG-13 - Teens 13 or older,357,Fruits Basket 1st Season,2019,23.0
+357,9260,Vampire,Movie,1,R - 17+ (violence & profanity),358,Kizumonogatari Part 1:Tekketsu,2016,64.0
+358,15225,"Harem, Comedy, Supernatural, Romance, School",TV,12,PG-13 - Teens 13 or older,359,"The ""Hentai"" Prince and the Stony Cat.",2013,24.0
+359,3712,"Action, Adventure, Harem, Comedy, Magic, Romance, Ecchi, Fantasy, School",TV,12,PG-13 - Teens 13 or older,360,The Familiar of Zero:Rondo of Princesses,2008,24.0
+360,1943,"Dementia, Fantasy, Horror, Mystery, Psychological, Sci-Fi, Thriller",Movie,1,R+ - Mild Nudity,361,Paprika,2006,90.0
+361,9969,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen",TV,51,PG-13 - Teens 13 or older,362,Gintama Season 2,2011,24.0
+362,2759,"Action, Sci-Fi, Psychological, Drama, Mecha",Movie,1,PG-13 - Teens 13 or older,363,Evangelion:1.0 You Are (Not) Alone,2007,100.0
+363,8937,"Action, Magic, Sci-Fi, Super Power",TV,24,R - 17+ (violence & profanity),364,A Certain Magical Index II,2010,23.0
+364,34561,"Action, Sci-Fi, Fantasy, Mecha",TV,22,R - 17+ (violence & profanity),365,Re:CREATORS,2017,24.0
+365,2890,"Adventure, Fantasy",Movie,1,G - All Ages,366,Ponyo,2008,101.0
+366,42897,"Slice of Life, Comedy, Romance, School, Shounen",TV,13,PG-13 - Teens 13 or older,366,Horimiya,2021,23.0
+367,35860,"Slice of Life, Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,368,Teasing Master Takagi-san,2018,23.0
+368,5530,"Adventure, Fantasy, Mystery, Shounen, Supernatural",TV,25,PG-13 - Teens 13 or older,368,PandoraHearts,2009,24.0
+369,8861,"Drama, Ecchi, Harem, Romance",TV,12,R+ - Mild Nudity,369,Yosuga no Sora,2010,25.0
+370,38329,"Supernatural, Drama, Romance, School",Movie,1,PG-13 - Teens 13 or older,370,Rascal Does Not Dream of a Dreaming Girl,2019,90.0
+371,34822,"Romance, School",TV,12,PG-13 - Teens 13 or older,371,Tsukigakirei,2017,24.0
+372,39940,"Ecchi, School, Shounen",TV,12,PG-13 - Teens 13 or older,373,Food Wars! The Fourth Plate,2019,24.0
+373,13659,"Comedy, Romance, Slice of Life",TV,13,PG-13 - Teens 13 or older,373,Oreimo 2,2013,24.0
+374,6956,"Comedy, Romance, Seinen, Slice of Life",TV,13,PG-13 - Teens 13 or older,375,Wagnaria!!,2010,24.0
+375,40776,"Comedy, Sports, Drama, School, Shounen",TV,12,PG-13 - Teens 13 or older,375,Haikyuu!!: To the Top 2nd Season,2020,23.0
+376,38659,"Action, Adventure, Comedy, Fantasy",TV,12,PG-13 - Teens 13 or older,376,Cautious Hero:The Hero Is Overpowered but Overly Cautious,2019,23.0
+377,40496,"Action, Demons, Magic, Fantasy, School",TV,13,R - 17+ (violence & profanity),377,The Misfit of Demon King Academy,2020,23.0
+378,31181,"Mystery, Comedy, Supernatural, Vampire",TV,12,R - 17+ (violence & profanity),379,Owarimonogatari,2015,26.0
+379,15051,"Music, Slice of Life, School",TV,13,PG-13 - Teens 13 or older,379,Love Live! School Idol Project,2013,23.0
+380,3784,"Action, Sci-Fi, Psychological, Drama, Mecha",Movie,1,PG-13 - Teens 13 or older,379,Evangelion:2.0 You Can (Not) Advance,2009,112.0
+381,6573,"Action, Sci-Fi, Mystery, Super Power",TV,12,R - 17+ (violence & profanity),381,Darker than Black:Gemini of the Meteor,2009,24.0
+382,14833,"Adventure, Demons, Romance, Fantasy",TV,12,PG-13 - Teens 13 or older,382,Maoyu ~ Archenemy & Hero,2013,23.0
+383,36882,"Action, Adventure, Fantasy, Harem",TV,13,PG-13 - Teens 13 or older,383,Arifureta:From Commonplace to World's Strongest,2019,23.0
+384,16870,"Action, Super Power, Romance, Martial Arts, Shounen",Movie,1,PG-13 - Teens 13 or older,384,The Last:Naruto the Movie,2014,112.0
+385,25835,"Comedy, Drama",TV,24,PG-13 - Teens 13 or older,387,Shirobako,2014,24.0
+386,40956,"Action, Supernatural, Shounen",TV,24,PG-13 - Teens 13 or older,388,Fire Force Season 2,2020,24.0
+387,34612,"Slice of Life, Comedy, Supernatural, School, Shounen",TV,24,PG-13 - Teens 13 or older,388,The Disastrous Life of Saiki K. 2,2018,24.0
+388,35203,"Adventure, Harem, Comedy, Magic, Romance, Fantasy",TV,12,PG-13 - Teens 13 or older,389,In Another World With My Smartphone,2017,24.0
+389,10800,"Drama, Game, Josei, School, Slice of Life, Sports",TV,25,PG-13 - Teens 13 or older,389,Chihayafuru,2011,22.0
+390,36296,"Comedy, Sci-Fi, Seinen, Slice of Life, Supernatural",TV,12,PG-13 - Teens 13 or older,391,Hinamatsuri,2018,23.0
+391,35839,"Adventure, Comedy, Drama",TV,13,PG-13 - Teens 13 or older,392,A Place Further Than The Universe,2018,23.0
+392,33731,"Comedy, Demons, Supernatural, School, Shounen",TV,12,PG-13 - Teens 13 or older,393,Gabriel DropOut,2017,23.0
+393,31741,"Action, Adventure, Fantasy, Magic, Shounen",TV,13,PG-13 - Teens 13 or older,394,Magi:Adventure of Sinbad,2016,24.0
+394,4214,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,13,R+ - Mild Nudity,394,Rosario + Vampire Capu2,2008,24.0
+395,36563,"Action, Sci-Fi, Slice of Life, Sports, Drama",TV,13,R - 17+ (violence & profanity),395,MEGALOBOX,2018,24.0
+396,10863,"Sci-Fi, Comedy, Thriller",Special,1,PG-13 - Teens 13 or older,397,Steins;Gate:Egoistic Poriomania,2012,24.0
+397,34382,"Drama, Romance, School, Shoujo Ai",TV,12,PG-13 - Teens 13 or older,398,Citrus,2018,23.0
+398,40456,"Action, Historical, Demons, Supernatural, Shounen",Movie,1,R - 17+ (violence & profanity),398,Kimetsu no Yaiba Movie: Mugen Ressha-hen,2020,117.0
+399,24765,"Slice of Life, Psychological, School, Horror, Mystery",TV,12,R - 17+ (violence & profanity),399,School-Live!,2015,24.0
+400,42203,"Psychological, Drama, Thriller, Fantasy",TV,12,R - 17+ (violence & profanity),399,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,2021,28.0
+401,36038,"Game, Comedy, Romance",ONA,10,PG-13 - Teens 13 or older,399,Recovery of an MMO Junkie,2017,23.0
+402,31636,"Comedy, Shounen, Slice of Life",TV,12,PG-13 - Teens 13 or older,400,Dagashi Kashi,2016,24.0
+403,34662,"Action, Supernatural, Drama, Magic, Fantasy",TV,25,R - 17+ (violence & profanity),402,Fate/Apocrypha,2017,23.0
+404,23673,"Comedy, Romance, School, Shoujo",TV,12,PG-13 - Teens 13 or older,402,Wolf Girl & Black Prince,2014,24.0
+405,39551,"Comedy, Fantasy",TV,12,PG-13 - Teens 13 or older,402,That Time I Got Reincarnated as a Slime Season 2,2021,23.0
+406,232,"Adventure, Comedy, Drama, Magic, Romance, Fantasy, School, Shoujo",TV,70,PG - Children,405,Cardcaptor Sakura,1998,25.0
+407,513,"Adventure, Fantasy, Romance, Sci-Fi",Movie,1,PG - Children,405,Castle in the Sky,1986,125.0
+408,34881,"Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,406,AHO-GIRL,2017,12.0
+409,31953,"Game, Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,406,New Game!,2016,24.0
+410,9656,"Slice of Life, Drama, Romance, School, Shoujo",TV,12,PG-13 - Teens 13 or older,409,Kimi ni Todoke:From Me To You 2,2011,23.0
+411,19221,"Harem, Comedy, Romance, School",TV,10,PG-13 - Teens 13 or older,410,My Mental Choices Are Completely Interfering With My School Romantic Comedy,2013,24.0
+412,34497,"Adventure, Fantasy, Harem",TV,12,PG-13 - Teens 13 or older,411,Death March to the Parallel World Rhapsody,2018,23.0
+413,34403,"Comedy, Ecchi, Romance, School, Shounen",TV,10,R+ - Mild Nudity,412,My First Girlfriend is a Gal,2017,23.0
+414,11319,"Adventure, Magic, Romance, Ecchi, Fantasy",TV,12,PG-13 - Teens 13 or older,412,The Familiar of Zero F,2012,24.0
+415,12549,"Comedy, Supernatural, Romance, Ecchi",TV,12,R+ - Mild Nudity,414,"So, I Can't Play H!",2012,25.0
+416,36407,"Action, Comedy, Magic, Romance, Fantasy",TV,12,PG-13 - Teens 13 or older,415,Wise Man's Grandchild,2019,23.0
+417,21843,"Action, Adventure, Demons, Supernatural, Magic, Fantasy",TV,12,R - 17+ (violence & profanity),416,Rage of Bahamut:Genesis,2014,24.0
+418,552,"Action, Adventure, Comedy, Fantasy, Kids",TV,54,PG - Children,419,Digimon:Digital Monsters,1999,24.0
+419,467,"Action, Military, Sci-Fi, Police, Mecha, Seinen",TV,26,R - 17+ (violence & profanity),419,Ghost in the Shell:Stand Alone Complex,2002,25.0
+420,4063,"Action, Comedy, Ecchi, Harem, Super Power",TV,12,R+ - Mild Nudity,419,Sekirei,2008,23.0
+421,10161,"Action, Sci-Fi, Mystery, Drama",TV,11,R - 17+ (violence & profanity),419,No. 6,2011,23.0
+422,27989,"Music, School, Drama",TV,13,PG-13 - Teens 13 or older,420,Sound! Euphonium,2015,23.0
+423,10080,"Comedy, Harem, Romance, Shounen, Supernatural",TV,12,PG-13 - Teens 13 or older,423,The World God Only Knows II,2011,23.0
+424,7817,"Comedy, Ecchi, Romance, School, Seinen",TV,12,R+ - Mild Nudity,423,Yamada's First Time:B Gata H Kei,2010,24.0
+425,2593,"Action, Mystery, Supernatural, Thriller",Movie,1,R - 17+ (violence & profanity),425,the Garden of sinners Chapter 1:Overlooking View,2007,50.0
+426,21855,"Mystery, Comedy, Supernatural",TV,5,R - 17+ (violence & profanity),426,Hanamonogatari,2014,25.0
+427,25159,"Harem, Slice of Life, Comedy, Supernatural, Romance, School",TV,12,PG-13 - Teens 13 or older,429,When Supernatural Battles Became Commonplace,2014,24.0
+428,25781,"Action, Fantasy, Shoujo",OVA,2,R - 17+ (violence & profanity),430,Shingeki no Kyojin: Kuinaki Sentaku,2014,27.0
+429,150,"Action, Military, Mystery, Horror, Supernatural, Drama, Vampire",TV,50,R - 17+ (violence & profanity),431,Blood+,2005,24.0
+430,13161,"Action, Super Power, Ecchi, Fantasy",TV,12,R+ - Mild Nudity,431,Aesthetica of a Rogue Hero,2012,24.0
+431,10790,"Action, Harem, Comedy, Supernatural, Magic, Ecchi",TV,10,R - 17+ (violence & profanity),432,Is this A Zombie? of the Dead,2012,24.0
+432,35972,"Action, Adventure, Comedy, Magic, Fantasy, Shounen",TV,51,PG-13 - Teens 13 or older,432,Fairy Tail Final Series,2018,23.0
+433,28755,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,1,PG-13 - Teens 13 or older,433,Boruto:Naruto the Movie,2015,95.0
+434,33988,"Comedy, Vampire, Fantasy, School, Seinen",TV,12,PG-13 - Teens 13 or older,435,Interviews With Monster Girls,2017,23.0
+435,12445,"Horror, Mystery, Romance, School, Shounen, Supernatural",TV,12,R - 17+ (violence & profanity),436,Dusk Maiden of Amnesia,2012,23.0
+436,41389,"Comedy, Romance, Shounen",TV,12,PG-13 - Teens 13 or older,437,TONIKAWA:Over the Moon For You,2020,23.0
+437,40540,"Action, Game, Adventure, Romance, Fantasy",TV,11,R - 17+ (violence & profanity),437,Sword Art Online Alicization War of Underworld Part 2,2020,24.0
+438,37976,"Comedy, Music, Supernatural",TV,12,R - 17+ (violence & profanity),437,Zombie Land Saga,2018,23.0
+439,39535,"Drama, Magic, Fantasy",TV,11,R - 17+ (violence & profanity),438,Mushoku Tensei:Jobless Reincarnation,2021,23.0
+440,31737,"Sci-Fi, Harem, Comedy, Supernatural, Romance, Ecchi, Fantasy, School",TV,12,PG-13 - Teens 13 or older,438,The Asterisk War Season 2,2016,24.0
+441,8516,"Comedy, Romance, School, Super Power",TV,13,PG-13 - Teens 13 or older,439,Baka & Test – Summon the Beasts 2,2011,24.0
+442,28025,"Mystery, Comedy, Supernatural, Ecchi",TV,4,R - 17+ (violence & profanity),440,Tsukimonogatari,2014,24.0
+443,20031,"Game, Comedy, School, Seinen",TV,12,PG-13 - Teens 13 or older,441,D-Frag!,2014,24.0
+444,32887,"Action, Adventure, Fantasy",TV,12,PG-13 - Teens 13 or older,443,Sword Oratoria:Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side,2017,25.0
+445,40010,"Comedy, Ecchi, Fantasy",TV,12,R+ - Mild Nudity,444,Interspecies Reviewers,2020,23.0
+446,32093,"Slice of Life, Comedy, School",TV,12,PG-13 - Teens 13 or older,446,Tanaka-kun is Always Listless,2016,24.0
+447,20853,"Action, Adventure, Comedy, Romance, Fantasy",TV,12,R - 17+ (violence & profanity),447,Chaika -The Coffin Princess-,2014,24.0
+448,31758,"Action, Mystery, Supernatural, Vampire",Movie,1,R - 17+ (violence & profanity),448,Kizumonogatari III: Reiketsu-hen,2017,83.0
+449,27831,"Action, Mystery, Supernatural",TV,12,R - 17+ (violence & profanity),448,Durarara!! x2 Ten,2015,24.0
+450,8630,"Action, Comedy, Romance, School",TV,12,PG-13 - Teens 13 or older,450,Aria the Scarlet Ammo,2011,24.0
+451,22265,"Slice of Life, Comedy, Sports, Drama, School",TV,13,PG-13 - Teens 13 or older,450,Free! - Eternal Summer,2014,24.0
+452,29095,"Drama, Harem, Psychological, Romance",TV,10,R+ - Mild Nudity,453,The Eden of Grisaia,2015,24.0
+453,34281,"Action, Comedy, Demons, Ecchi, Harem, Romance, School",TV,12,R+ - Mild Nudity,453,High School DxD Hero,2018,23.0
+454,7785,"Mystery, Comedy, Psychological, Romance",TV,11,R - 17+ (violence & profanity),454,The Tatami Galaxy,2010,23.0
+455,11433,"Comedy, Drama, Romance, Sci-Fi, Slice of Life",TV,12,PG-13 - Teens 13 or older,455,Waiting in the Summer,2012,23.0
+456,28805,"Adventure, Supernatural",Movie,1,PG-13 - Teens 13 or older,455,The Boy and the Beast,2015,119.0
+457,34798,"Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,457,Laid-Back Camp,2018,23.0
+458,21405,"Slice of Life, Comedy, Romance, School, Seinen",TV,12,PG-13 - Teens 13 or older,458,The Kawai Complex Guide to Manors and Hostel Behavior,2014,24.0
+459,12293,"Comedy, Ecchi, Fantasy, Harem, Magic, Romance",TV,13,PG-13 - Teens 13 or older,459,Campione!,2012,24.0
+460,31757,"Action, Mystery, Supernatural, Vampire",Movie,1,R - 17+ (violence & profanity),460,Kizumonogatari Part 2:Nekketsu,2016,64.0
+461,18247,"Action, Sci-Fi, Harem, Comedy, Ecchi, Mecha",TV,12,PG-13 - Teens 13 or older,460,Infinite Stratos 2,2013,24.0
+462,35557,"Action, Drama, Fantasy, Mystery, Seinen",TV,12,PG-13 - Teens 13 or older,462,Land of the Lustrous,2017,24.0
+463,4752,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,13,PG-13 - Teens 13 or older,464,Vampire Knight:Guilty,2008,24.0
+464,6114,"Drama, Historical, Seinen, Thriller",TV,26,R - 17+ (violence & profanity),466,Rainbow,2010,22.0
+465,11285,"Action, Drama, School, Slice of Life",TV,8,PG-13 - Teens 13 or older,466,Black Rock Shooter,2012,23.0
+466,28249,"Action, Adventure, Drama, Fantasy, Historical, Shounen",TV,25,R - 17+ (violence & profanity),467,The Heroic Legend of Arslan,2015,24.0
+467,38656,"Action, Sci-Fi, Mystery, Super Power, Shounen",TV,11,R - 17+ (violence & profanity),467,Darwin's Game,2020,26.0
+468,38003,"Action, Mystery, Seinen, Super Power, Supernatural",TV,12,R - 17+ (violence & profanity),469,Bungou Stray Dogs 3rd Season,2019,23.0
+469,40454,"Action, Adventure, Comedy, Romance, Fantasy",TV,12,PG-13 - Teens 13 or older,469,Is It Wrong to Try to Pick Up Girls in a Dungeon? III,2020,24.0
+470,18397,"Action, Super Power, Drama, Fantasy, Shounen",OVA,3,R - 17+ (violence & profanity),469,Shingeki no Kyojin OVA,2013,23.0
+471,34451,"Action, Comedy, Fantasy, Shounen, Super Power, Supernatural, Vampire",TV,12,R - 17+ (violence & profanity),470,Blood Blockade Battlefront & Beyond,2017,24.0
+472,3470,"Comedy, Romance, School, Shoujo",TV,24,PG-13 - Teens 13 or older,472,Special A (S.A),2008,24.0
+473,20541,"Slice of Life, Comedy, Romance, School",TV,12,PG-13 - Teens 13 or older,473,Engaged to the Unidentified,2014,23.0
+474,32686,"Action, Sports, Ecchi, Shounen",TV,12,PG-13 - Teens 13 or older,474,Keijo!!!!!!!!,2016,23.0
+475,857,"Action, Comedy, Ecchi, Shounen, Sports",TV,25,R+ - Mild Nudity,474,Air Gear,2006,24.0
+476,27833,"Action, Mystery, Supernatural",TV,12,R - 17+ (violence & profanity),474,Durarara!! x2 Ketsu,2016,24.0
+477,154,"Action, Adventure, Comedy, Super Power, Supernatural, Shounen",TV,64,PG-13 - Teens 13 or older,477,Shaman King,2001,23.0
+478,8795,"Action, Comedy, Parody, Supernatural, Ecchi",TV,13,R - 17+ (violence & profanity),478,Panty & Stocking with Garterbelt,2010,23.0
+479,16417,"Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,478,Tamako Market,2013,23.0
+480,17549,"Comedy, School, Seinen, Slice of Life",TV,12,PG-13 - Teens 13 or older,481,Non Non Biyori,2013,24.0
+481,16049,"Action, Sci-Fi, Super Power",TV,24,R - 17+ (violence & profanity),482,A Certain Scientific Railgun S,2013,24.0
+482,22145,"Action, Mystery, Comedy, Historical, Demons, Supernatural, Shounen",TV,10,R - 17+ (violence & profanity),482,Black Butler:Book of Circus,2014,24.0
+483,32899,"Harem, Comedy, Romance, School, Shoujo",TV,12,PG-13 - Teens 13 or older,483,"Kiss Him, Not Me!",2016,23.0
+484,481,"Adventure, Game, Shounen",TV,224,PG-13 - Teens 13 or older,484,Yu-Gi-Oh!,2000,23.0
+485,7647,"Comedy, Romance, Seinen",TV,13,PG-13 - Teens 13 or older,485,Arakawa Under the Bridge,2010,24.0
+486,8676,"Slice of Life, Comedy, Romance, School",TV,25,PG-13 - Teens 13 or older,487,Amagami SS,2010,24.0
+487,10030,"Comedy, Drama, Romance, Shounen",TV,25,PG-13 - Teens 13 or older,488,Bakuman.,2011,24.0
+488,323,"Mystery, Dementia, Police, Psychological, Supernatural, Drama, Thriller",TV,13,R+ - Mild Nudity,489,Paranoia Agent,2004,24.0
+489,11981,"Mystery, Psychological, Drama, Magic, Thriller",Movie,1,PG-13 - Teens 13 or older,490,Puella Magi Madoka Magica the Movie:Rebellion,2013,116.0
+490,228,"Mystery, Horror, Psychological, Supernatural",TV,26,R - 17+ (violence & profanity),490,Hell Girl,2005,25.0
+491,384,"Action, Sci-Fi, Horror, Psychological, Supernatural, Drama, Ecchi",TV,13,R+ - Mild Nudity,491,Gantz,2004,22.0
+492,16762,"Action, Psychological, Supernatural, Shounen",OVA,1,R - 17+ (violence & profanity),493,The Future Diary:Redial,2013,29.0
+493,2605,"Comedy, Parody, School, Shounen",TV,12,R - 17+ (violence & profanity),493,"Sayonara, Zetsubou-Sensei",2007,24.0
+494,12531,"Drama, Josei, Music, Romance, School",TV,12,PG-13 - Teens 13 or older,494,Kids on the Slope,2012,22.0
+495,11785,"Sci-Fi, Comedy, Parody",TV,12,PG-13 - Teens 13 or older,496,Nyaruko:Crawling With Love!,2012,24.0
+496,13663,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",TV,12,R+ - Mild Nudity,497,To LOVE Ru Darkness,2012,23.0
+497,16524,"Action, Sci-Fi, Adventure, Mecha",TV,13,PG-13 - Teens 13 or older,497,Gargantia on the Verdurous Planet,2013,23.0
+498,15037,"Mystery, Horror, Supernatural",OVA,4,R - 17+ (violence & profanity),498,Corpse Party:Tortured Souls,2013,29.0
+499,22877,"Action, Harem, Comedy, Supernatural, Romance, Ecchi, Fantasy, School",TV,12,PG-13 - Teens 13 or older,499,Blade Dance of the Elementalers,2014,23.0
+500,37171,"Comedy, School",TV,12,PG-13 - Teens 13 or older,500,Asobi Asobase:Workshop of Fun,2018,23.0
+501,39534,"Comedy, School, Shounen, Supernatural",TV,12,PG-13 - Teens 13 or older,501,Toilet-bound Hanako-kun,2020,24.0
+502,19369,"Harem, Comedy, Parody, Fantasy",TV,12,PG-13 - Teens 13 or older,503,Outbreak Company,2013,24.0
+503,33926,"Action, Game",ONA,12,PG-13 - Teens 13 or older,504,The King's Avatar,2017,24.0
+504,21431,"Drama, Mystery, Sci-Fi, Seinen",TV,13,R+ - Mild Nudity,505,Brynhildr in the Darkness,2014,23.0
+505,430,"Military, Comedy, Historical, Drama, Fantasy, Shounen",Movie,1,PG-13 - Teens 13 or older,506,Fullmetal Alchemist:The Movie - Conqueror of Shamballa,2005,105.0
+506,34934,"Drama, Romance, School",TV,12,PG-13 - Teens 13 or older,507,Love and Lies,2017,24.0
+507,30749,"Action, Harem, Supernatural, Romance, Ecchi, Fantasy, Mecha, School",TV,12,PG-13 - Teens 13 or older,509,Undefeated Bahamut Chronicle,2016,23.0
+508,38472,"Comedy, Fantasy, Parody",TV,12,PG-13 - Teens 13 or older,510,Isekai Quartet,2019,12.0
+509,10495,"Slice of Life, Comedy, School, Shoujo Ai",TV,12,PG-13 - Teens 13 or older,511,YuruYuri:Happy Go Lily,2011,23.0
+510,30363,"Action, Ecchi, Fantasy, Romance, Harem, Demons",TV,10,R+ - Mild Nudity,513,The Testament of Sister New Devil:Burst,2015,23.0
+511,572,"Adventure, Fantasy",Movie,1,PG-13 - Teens 13 or older,513,Nausicaä of the Valley of the Wind,1984,117.0
+512,24,"Comedy, Romance, School, Shounen",TV,26,PG-13 - Teens 13 or older,514,School Rumble,2004,23.0
+513,530,"Demons, Magic, Romance, Shoujo",TV,46,PG-13 - Teens 13 or older,514,Sailor Moon,1992,24.0
+514,33502,"Sci-Fi, Drama, Romance, Fantasy",TV,12,PG-13 - Teens 13 or older,516,WorldEnd:What do you do at the end of the world? Are you busy? Will you save us?,2017,24.0
+515,38790,"Action, Game, Sci-Fi, Adventure, Comedy, Fantasy",TV,12,PG-13 - Teens 13 or older,516,"BOFURI:I Don't Want to Get Hurt, so I'll Max Out My Defense.",2020,23.0
+516,5,"Action, Drama, Mystery, Sci-Fi, Space",Movie,1,R - 17+ (violence & profanity),518,Cowboy Bebop:The Movie,2001,115.0
+517,26349,"Slice of Life, Comedy, Romance, Seinen",TV,13,PG-13 - Teens 13 or older,519,I Can't Understand What My Husband Is Saying,2014,3.0
+518,16706,"Harem, Comedy, Supernatural, Romance, Shounen",TV,12,PG-13 - Teens 13 or older,519,The World God Only Knows:Goddesses,2013,24.0
+519,40052,"Action, Adventure, Mystery, Comedy, Psychological",ONA,23,R - 17+ (violence & profanity),520,Great Pretender,2020,23.0
+520,32380,"Adventure, Comedy, Supernatural, Magic, Fantasy",OVA,1,PG-13 - Teens 13 or older,521,Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!,2016,23.0
+521,35247,"Mystery, Comedy, Supernatural, Vampire",TV,7,R - 17+ (violence & profanity),521,Owarimonogatari Second Season,2017,22.0
+522,2104,"Comedy, Parody, Romance, School, Shounen",TV,26,PG-13 - Teens 13 or older,522,My Bride is a Mermaid,2007,24.0
+523,38483,"Harem, Comedy, Romance, School",TV,12,PG-13 - Teens 13 or older,523,ORESUKI Are you the only one who loves me?,2019,23.0
+524,40902,"Ecchi, School, Shounen",TV,13,PG-13 - Teens 13 or older,524,Food Wars! The Fifth Plate,2020,23.0
+525,31338,"Action, Sci-Fi, Harem, Romance, Ecchi, Mecha, School",TV,12,PG-13 - Teens 13 or older,526,Hundred,2016,24.0
+526,202,"Action, Adventure, Drama, Fantasy, Mystery, Sci-Fi",TV,26,PG-13 - Teens 13 or older,528,Wolf's Rain,2003,23.0
+527,12413,"Action, Adventure, Seinen",TV,12,R+ - Mild Nudity,528,Jormungand,2012,24.0
+528,1292,"Action, Adventure, Samurai",TV,5,R+ - Mild Nudity,528,Afro Samurai,2007,27.0
+529,2787,"Action, Supernatural, Drama, Romance, Fantasy, School",TV,24,PG-13 - Teens 13 or older,531,Shakugan no Shana:Season II,2007,24.0
+530,3785,"Action, Sci-Fi, Psychological, Drama, Mecha",Movie,1,PG-13 - Teens 13 or older,531,Evangelion:3.0 You Can (Not) Redo,2012,96.0
+531,9367,"Action, Sci-Fi, Harem, Drama, Romance, Ecchi, Martial Arts, Seinen",TV,12,R+ - Mild Nudity,531,Freezing,2011,24.0
+532,39463,"Action, Mystery, Supernatural, Ecchi, Seinen",TV,13,R - 17+ (violence & profanity),533,Gleipnir,2020,23.0
+533,5682,"Action, Drama, Seinen, Thriller",TV,26,R - 17+ (violence & profanity),533,Phantom:Requiem for the Phantom,2009,24.0
+534,6033,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,97,PG-13 - Teens 13 or older,536,Dragon Ball Z Kai,2009,23.0
+535,10396,"Action, Comedy, Martial Arts",TV,12,PG-13 - Teens 13 or older,537,Ben-To,2011,24.0
+536,20057,"Sci-Fi, Space, Comedy",TV,13,PG-13 - Teens 13 or older,537,Space Dandy,2014,24.0
+537,12365,"Comedy, Drama, Romance, Shounen",TV,25,PG-13 - Teens 13 or older,537,Bakuman.,2012,24.0
+538,9289,"Slice of Life, Comedy, Drama",TV,26,PG-13 - Teens 13 or older,538,Hanasaku Iroha:Blossoms for Tomorrow,2011,24.0
+539,34240,"Sci-Fi, Music",Music,1,G - All Ages,539,Shelter,2016,6.0
+540,39565,"Action, Super Power, Shounen",Movie,1,PG-13 - Teens 13 or older,542,Boku no Hero Academia the Movie 2: Heroes:Rising,2019,104.0
+541,30911,"Action, Adventure, Magic, Fantasy",TV,12,PG-13 - Teens 13 or older,544,Tales of Zestiria the X,2016,23.0
+542,22135,"Drama, Psychological, Seinen, Sports",TV,11,PG-13 - Teens 13 or older,545,Ping Pong the Animation,2014,23.0
+543,24455,"Adventure, Ecchi, Fantasy, Harem, Romance",TV,13,R - 17+ (violence & profanity),545,Lord Marksman and Vanadis,2014,24.0
+544,35180,"Drama, Game, Seinen, Slice of Life",TV,22,PG-13 - Teens 13 or older,545,March Comes In Like A Lion 2nd Season,2017,25.0
+545,15379,"Comedy, Drama, Romance, School",TV,12,PG-13 - Teens 13 or older,546,The Troubled Life of Miss Kotoura,2013,23.0
+546,25537,"Action, Fantasy, Magic, Supernatural",Movie,1,R - 17+ (violence & profanity),547,Fate/stay night:Heaven's Feel - I. Presage Flower,2017,120.0
+547,32262,"Harem, Comedy, Supernatural, Romance, Ecchi, School",TV,12,PG-13 - Teens 13 or older,548,Love Tyrant,2017,23.0
+548,38668,"Action, Comedy, Horror, Magic, Fantasy, Seinen",TV,12,R - 17+ (violence & profanity),550,Dorohedoro,2020,23.0
+549,39017,"Mystery, Demons, Supernatural, Romance, Shounen",TV,12,R - 17+ (violence & profanity),552,In/Spectre,2020,24.0
+550,27655,"Action, Mecha, Sci-Fi, Space",TV,12,R - 17+ (violence & profanity),552,Aldnoah.Zero,2015,23.0
+551,38186,"Harem, Comedy, Romance, School, Shounen",TV,13,PG-13 - Teens 13 or older,552,We Never Learn:BOKUBEN,2019,23.0
+552,17247,"Action, Ecchi, Fantasy, School",TV,12,R+ - Mild Nudity,553,Unbreakable Machine-Doll,2013,23.0
+553,6500,"Action, Super Power, Supernatural, Ecchi, Seinen",TV,24,R+ - Mild Nudity,553,The Qwaser of Stigmata,2010,24.0
+554,24405,"Action, Sci-Fi, Supernatural, School, Shounen",TV,73,PG-13 - Teens 13 or older,554,World Trigger,2014,23.0
+555,14349,"Adventure, Comedy, Magic, Fantasy, School",Movie,1,PG-13 - Teens 13 or older,554,Little Witch Academia,2013,26.0
+556,66,"Slice of Life, Comedy, School",TV,26,PG-13 - Teens 13 or older,554,Azumanga Daioh:The Animation,2002,24.0
+557,1698,"Music, Slice of Life, Comedy, Drama, Romance, Josei",TV,23,PG-13 - Teens 13 or older,558,Nodame Cantabile,2007,22.0
+558,33475,"Action, Comedy, School, Shounen",TV,12,PG-13 - Teens 13 or older,560,Armed Girl's Machiavellism,2017,23.0
+559,39533,"Drama, Music, Romance, Shounen Ai, Slice of Life",TV,11,PG-13 - Teens 13 or older,561,Given,2019,22.0
+560,2418,"Action, Adventure, Historical, Samurai",Movie,1,R - 17+ (violence & profanity),562,Sword of the Stranger,2007,103.0
+561,6675,"Action, Sci-Fi, Cars, Sports",Movie,1,R+ - Mild Nudity,563,Redline,2009,102.0
+562,101,"Slice of Life, Supernatural, Drama, Romance",TV,12,PG-13 - Teens 13 or older,563,Air,2005,24.0
+563,1726,"Action, Demons, Fantasy",TV,12,R - 17+ (violence & profanity),563,Devil May Cry,2007,24.0
+564,9181,"Sci-Fi, Harem, Comedy, Ecchi, School, Shounen",TV,12,R+ - Mild Nudity,565,Motto To LOVE Ru,2010,24.0
+565,27991,"Action, Super Power, Supernatural",TV,13,PG-13 - Teens 13 or older,565,K:Return of Kings,2015,24.0
+566,4975,"Sci-Fi, Harem, Mystery, Psychological, Supernatural",TV,12,R - 17+ (violence & profanity),567,ChäoS;HEAd,2008,27.0
+567,11703,"Action, Comedy, Super Power, Supernatural, School, Shounen",TV,13,R - 17+ (violence & profanity),568,Code:Breaker,2012,24.0
+568,5042,"Comedy, Ecchi, Harem, Romance, School, Seinen",OVA,12,R+ - Mild Nudity,568,Kiss x Sis,2008,24.0
+569,4059,"Drama, Romance, School, Slice of Life",Special,1,PG-13 - Teens 13 or older,569,"Clannad:Another World, Tomoyo Chapter",2008,25.0
+570,57,"Comedy, Drama, Music, Shounen, Slice of Life",TV,26,R - 17+ (violence & profanity),570,Beck:Mongolian Chop Squad,2004,25.0
+571,72,"Action, Comedy, School",TV,12,PG-13 - Teens 13 or older,571,Full Metal Panic? Fumoffu,2003,24.0
+572,32189,"Action, Mystery, Horror, Psychological",TV,12,R - 17+ (violence & profanity),572,Danganronpa 3:The End of Hope's Peak High School - Future Arc,2016,24.0
+573,10490,"Action, Mystery, Horror, Supernatural, Vampire, School",TV,12,R - 17+ (violence & profanity),573,BLOOD-C,2011,23.0
+574,32379,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",TV,12,R+ - Mild Nudity,574,Berserk,2016,24.0
+575,20767,"Action, Adventure, Comedy, Supernatural, Shounen",OVA,2,PG-13 - Teens 13 or older,575,Noragami OVA,2014,24.0
+576,31163,"Action, Sci-Fi, Seinen",TV,12,R - 17+ (violence & profanity),576,Dimension W,2016,24.0
+577,12291,"Slice of Life, Comedy, Romance, School",TV,12,PG-13 - Teens 13 or older,578,Place to Place,2012,25.0
+578,268,"Adventure, Comedy, Ecchi",OVA,6,R+ - Mild Nudity,579,Golden Boy,1995,29.0
+579,235,"Adventure, Mystery, Comedy, Police, Shounen",TV,Unknown,PG-13 - Teens 13 or older,580,Case Closed,1996,25.0
+580,21327,"Slice of Life, Comedy, School, Shounen",TV,12,PG-13 - Teens 13 or older,580,One Week Friends,2014,23.0
+581,10163,"Action, Mystery, Super Power, Thriller",TV,11,PG-13 - Teens 13 or older,582,[C] CONTROL - The Money and Soul of Possibility,2011,22.0
+582,861,"Comedy, Drama, Mystery, Psychological, Supernatural",TV,24,PG-13 - Teens 13 or older,583,xxxHOLiC,2006,24.0
+583,9379,"Sci-Fi, Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,584,Ground Control to Psychoelectric Girl,2011,24.0
+584,20689,"Mystery, Comedy, Super Power, Drama",TV,12,R - 17+ (violence & profanity),585,Hamatora The Animation,2014,24.0
+585,10721,"Mystery, Comedy, Dementia, Psychological, Drama",TV,24,R - 17+ (violence & profanity),588,Penguindrum,2011,24.0
+586,31173,"Drama, Romance, Fantasy, Shoujo",TV,12,PG-13 - Teens 13 or older,589,Snow White with the Red Hair 2,2016,24.0
+587,25681,"Comedy, Demons, Supernatural, Romance, Fantasy, Shoujo",TV,12,PG-13 - Teens 13 or older,589,Kamisama Kiss Season 2,2015,23.0
+588,31764,"Action, Adventure, Fantasy, Military",TV,13,R - 17+ (violence & profanity),589,Alderamin on the Sky,2016,23.0
+589,17513,"Harem, School, Shoujo, Vampire",TV,12,R - 17+ (violence & profanity),590,Diabolik Lovers,2013,15.0
+590,21647,"Comedy, Romance, Slice of Life",Movie,1,PG-13 - Teens 13 or older,590,Tamako Love Story,2014,83.0
+591,3002,"Game, Psychological, Thriller, Seinen",TV,26,R - 17+ (violence & profanity),592,Kaiji:Ultimate Survivor,2007,23.0
+592,8407,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,12,PG-13 - Teens 13 or older,592,Heaven's Lost Property:Forte,2010,23.0
+593,8086,"Action, Adventure, Magic, Fantasy, Shounen",TV,24,R - 17+ (violence & profanity),594,The Legend of the Legendary Heroes,2010,24.0
+594,35851,"Drama, Fantasy",Movie,1,PG-13 - Teens 13 or older,595,Maquia:When the Promised Flower Blooms,2018,115.0
+595,39783,"Harem, Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,595,The Quintessential Quintuplets 2,2021,24.0
+596,20021,"Action, Adventure, Fantasy, Game, Romance",Special,1,PG-13 - Teens 13 or older,596,Sword Art Online:Extra Edition,2013,101.0
+597,1559,"Action, Comedy, Martial Arts, School, Shounen",TV,50,PG-13 - Teens 13 or older,597,KenIchi:The Mightiest Disciple,2006,25.0
+598,35466,"Romance, School, Slice of Life",Special,4,PG-13 - Teens 13 or older,598,ReLIFE: Kanketsu-hen,2018,23.0
+599,11933,"Comedy, Historical, Romance",TV,12,PG-13 - Teens 13 or older,599,The Ambition of Oda Nobuna,2012,24.0
+600,9515,"Comedy, Ecchi, Supernatural",OVA,1,R+ - Mild Nudity,599,Highschool of the Dead: Drifters of the Dead,2011,16.0
+601,79,"Harem, Comedy, Drama, Magic, Romance, Ecchi, Fantasy, School, Seinen",TV,24,R+ - Mild Nudity,600,Shuffle!,2005,23.0
+602,21085,"Action, Fantasy, Magic, Seinen, Supernatural",TV,12,PG-13 - Teens 13 or older,603,Witch Craft Works,2014,23.0
+603,24133,"Action, Ecchi, Fantasy, Harem, Military, Romance, Supernatural",TV,12,R - 17+ (violence & profanity),603,AntiMagic Academy 35th Test Platoon,2015,23.0
+604,27821,"Action, Fantasy, Magic, Supernatural",Special,1,PG-13 - Teens 13 or older,604,Fate/stay night:Unlimited Blade Works - Prologue,2014,51.0
+605,30727,"Harem, Comedy, Romance, Ecchi, School",TV,11,PG-13 - Teens 13 or older,606,Saekano:How to Raise a Boring Girlfriend .flat,2017,22.0
+606,34626,"Magic, Adventure, Fantasy, Comedy, Supernatural",OVA,1,PG-13 - Teens 13 or older,606,KonoSuba:God's Blessing on This Wonderful World! 2:God's blessing on this wonderful Art!,2017,28.0
+607,9617,"Music, Slice of Life, Comedy",Movie,1,PG-13 - Teens 13 or older,607,K-ON! The Movie,2011,110.0
+608,18677,"Comedy, Romance, Ecchi, Fantasy",TV,12,R+ - Mild Nudity,607,"Yusibu:I couldnt become a hero, so I reluctantly decided to get a job.",2013,24.0
+609,14199,"Comedy, Ecchi, Harem, Romance, School",TV,12,R+ - Mild Nudity,608,OniAi,2012,24.0
+610,31704,"Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural",OVA,1,R - 17+ (violence & profanity),608,One Punch Man: Road to Hero,2015,24.0
+611,15085,"Harem, Mystery, Romance, Fantasy, Josei",TV,12,PG-13 - Teens 13 or older,609,Amnesia,2013,23.0
+612,6211,Drama,TV,11,PG-13 - Teens 13 or older,611,Tokyo Magnitude 8.0,2009,22.0
+613,6205,"Action, Comedy, Ecchi, Romance, School, Shoujo Ai, Super Power",TV,12,R+ - Mild Nudity,613,Kämpfer,2009,24.0
+614,7769,"Comedy, Parody, Romance",TV,12,PG-13 - Teens 13 or older,614,Okami-San and Her Seven Companions,2010,24.0
+615,22663,"Action, Fantasy, Harem, Romance, School, Supernatural",TV,12,R - 17+ (violence & profanity),615,World Break:Aria of Curse for a Holy Swordsman,2015,24.0
+616,13655,"Slice of Life, Comedy, Supernatural, Drama, School",TV,26,PG-13 - Teens 13 or older,617,Little Busters!,2012,24.0
+617,38555,"Comedy, Drama, Romance, Fantasy, School",TV,12,PG-13 - Teens 13 or older,617,My Next Life as a Villainess:All Routes Lead to Doom!,2020,24.0
+618,39026,"Comedy, Ecchi, Slice of Life, Sports",TV,12,PG-13 - Teens 13 or older,619,How heavy are the dumbbells you lift?,2019,24.0
+619,30016,"Action, Comedy, Drama",TV,13,PG-13 - Teens 13 or older,620,Nanbaka,2016,23.0
+620,28725,"Drama, Romance, School",Movie,1,PG-13 - Teens 13 or older,621,The Anthem of the Heart,2015,119.0
+621,1530,"Slice of Life, Supernatural, Drama, Romance",TV,24,PG-13 - Teens 13 or older,621,Kanon,2006,24.0
+622,68,"Sci-Fi, Adventure, Comedy, Super Power, Shounen",TV,23,PG-13 - Teens 13 or older,622,Black Cat,2005,24.0
+623,10213,"Harem, Comedy, Super Power, Romance, Ecchi, Martial Arts, School",TV,12,PG-13 - Teens 13 or older,623,Majikoi:Oh! Samurai Girls,2011,23.0
+624,41587,"Action, Comedy, Super Power, School, Shounen",TV,Unknown,PG-13 - Teens 13 or older,627,Boku no Hero Academia 5th Season,2021,19.54706925323321
+625,3731,"Comedy, Romance, Shoujo",TV,25,PG-13 - Teens 13 or older,627,ItaKiss,2008,24.0
+626,38759,"Slice of Life, Comedy, Supernatural, Romance",TV,12,PG-13 - Teens 13 or older,628,The Helpful Fox Senko-san,2019,23.0
+627,32828,"Comedy, Slice of Life, Seinen",TV,12,PG-13 - Teens 13 or older,628,Sweetness & Lightning,2016,24.0
+628,41226,"Slice of Life, Comedy, Romance, Ecchi",TV,12,PG-13 - Teens 13 or older,628,Uzaki-chan Wants to Hang Out!,2020,23.0
+629,16918,"Comedy, School, Shounen, Slice of Life",TV,11,PG-13 - Teens 13 or older,628,Silver Spoon,2013,23.0
+630,22101,"Adventure, Romance, Fantasy, Shoujo",TV,12,PG-13 - Teens 13 or older,629,The World is Still Beautiful,2014,22.0
+631,7711,Fantasy,Movie,1,G - All Ages,629,The Secret World of Arrietty,2010,94.0
+632,35838,"Adventure, Mystery, Sci-Fi, Slice of Life",TV,12,PG-13 - Teens 13 or older,631,Girls' Last Tour,2017,23.0
+633,820,"Military, Sci-Fi, Space, Drama",OVA,110,R - 17+ (violence & profanity),633,Legend of the Galactic Heroes,1988,26.0
+634,37435,"Drama, Music, Sci-Fi",TV,24,PG-13 - Teens 13 or older,634,Carole & Tuesday,2019,22.0
+635,9062,"Action, Comedy, School, Supernatural",Special,2,PG-13 - Teens 13 or older,635,Angel Beats! Specials,2010,27.0
+636,44,"Action, Historical, Drama, Romance, Martial Arts, Samurai, Shounen",OVA,4,R - 17+ (violence & profanity),637,Samurai X:Trust and Betrayal,1999,30.0
+637,185,"Action, Cars, Drama, Seinen, Sports",TV,26,PG-13 - Teens 13 or older,638,Initial D First Stage,1998,25.0
+638,35413,"Comedy, Romance",TV,12,R+ - Mild Nudity,638,A Sister's All You Need,2017,23.0
+639,21939,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen",TV,10,PG-13 - Teens 13 or older,639,MUSHI-SHI -Next Passage-,2014,24.0
+640,73,"Action, Military, Mecha",TV,13,R - 17+ (violence & profanity),639,Full Metal Panic! The Second Raid,2005,24.0
+641,33253,"Action, Horror, Mystery, Seinen, Supernatural",TV,13,R - 17+ (violence & profanity),641,Ajin 2nd Season,2016,24.0
+642,14131,"Action, Sports, Military, School",TV,12,PG-13 - Teens 13 or older,642,Girls & Panzer,2012,24.0
+643,585,"Slice of Life, Drama, Romance, Shoujo",Movie,1,G - All Ages,643,Whisper of the Heart,1995,111.0
+644,33028,"Action, Mystery, Horror, Psychological, School",TV,11,R - 17+ (violence & profanity),644,Danganronpa 3:The End of Hope's Peak High School - Despair Arc,2016,23.0
+645,189,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",TV,24,PG-13 - Teens 13 or older,645,Love Hina,2000,23.0
+646,37497,"Drama, Magic, Romance, School",TV,13,PG-13 - Teens 13 or older,646,Iroduku:The World in Colors,2018,24.0
+647,31772,"Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural",Special,6,R - 17+ (violence & profanity),647,One Punch Man Specials,2015,12.0
+648,6512,"Harem, Comedy, Romance",TV,12,PG-13 - Teens 13 or older,649,Nyan Koi!,2009,24.0
+649,35076,Action,TV,12,R - 17+ (violence & profanity),649,Juni Taisen:Zodiac War,2017,24.0
+650,486,"Action, Adventure, Psychological, Slice of Life",TV,13,R - 17+ (violence & profanity),650,Kino's Journey,2003,24.0
+651,19429,"Action, School, Shoujo Ai",TV,12,R - 17+ (violence & profanity),651,Riddle Story of Devil,2014,23.0
+652,28735,"Drama, Historical, Josei",TV,13,PG-13 - Teens 13 or older,653,Showa Genroku Rakugo Shinju,2016,26.0
+653,33743,"Drama, Ecchi, Music, Romance, School, Shounen",TV,12,R+ - Mild Nudity,654,Fuuka,2017,24.0
+654,32827,"Action, Mystery, Police, Psychological, Supernatural, Thriller",ONA,12,R - 17+ (violence & profanity),656,B:The Beginning,2018,23.0
+655,13667,"Action, Adventure, Super Power, Martial Arts, Shounen",Movie,1,PG-13 - Teens 13 or older,656,Road to Ninja:Naruto the Movie,2012,109.0
+656,36633,"Sci-Fi, Harem, Comedy, Romance, Mecha, School",TV,12,R - 17+ (violence & profanity),658,Date A Live III,2019,24.0
+657,5060,"Comedy, Historical, Parody",ONA,52,PG-13 - Teens 13 or older,658,Hetalia Axis Powers,2009,5.0
+658,7592,"Action, Demons, Shounen, Supernatural",TV,24,PG-13 - Teens 13 or older,659,Nura:Rise of the Yokai Clan,2010,24.0
+659,15417,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,13,PG-13 - Teens 13 or older,660,Gintama:Enchousen,2012,24.0
+660,1686,"Action, Adventure, Comedy, Super Power, Supernatural, Shounen",Movie,1,PG-13 - Teens 13 or older,660,Bleach the Movie:Memories of Nobody,2006,93.0
+661,21863,"Harem, Slice of Life, Comedy, Ecchi, Seinen",TV,12,PG-13 - Teens 13 or older,661,The Comic Artist and His Assistants,2014,13.0
+662,6351,"Drama, Romance, School",Special,1,PG-13 - Teens 13 or older,661,"Clannad ~After Story~:Another World, Kyou Chapter",2009,24.0
+663,37345,"Action, Ecchi, Fantasy, Shounen",TV,24,PG-13 - Teens 13 or older,661,Plunderer,2020,22.0
+664,10588,"Sci-Fi, Adventure, Mystery, Super Power, Supernatural, School",TV,25,PG-13 - Teens 13 or older,662,Persona 4 the Animation,2011,25.0
+665,2924,"Mystery, Drama, Romance",TV,12,PG-13 - Teens 13 or older,664,ef - a tale of memories.,2007,24.0
+666,7338,"Action, Mystery, Sci-Fi, Super Power",Special,4,R - 17+ (violence & profanity),664,Darker than Black: Kuro no Keiyakusha Gaiden,2010,24.0
+667,43299,"Psychological, Drama, Fantasy",TV,12,R - 17+ (violence & profanity),664,Wonder Egg Priority,2021,23.0
+668,40750,"Ecchi, Fantasy",TV,12,R+ - Mild Nudity,665,Redo of Healer,2021,24.0
+669,32902,"Slice of Life, Magic, Fantasy, Shounen",OVA,3,PG-13 - Teens 13 or older,667,The Ancient Magus' Bride:Those Awaiting a Star,2016,23.0
+670,4722,"Comedy, Drama, Romance, Shoujo",TV,25,PG-13 - Teens 13 or older,670,Skip Beat!,2008,24.0
+671,15039,"Slice of Life, Supernatural, Drama",Movie,1,PG-13 - Teens 13 or older,670,anohana:The Flower We Saw That Day The Movie,2013,99.0
+672,10521,"Comedy, Romance, Seinen, Slice of Life",TV,13,PG-13 - Teens 13 or older,672,Wagnaria!!2,2011,24.0
+673,36028,"Action, Adventure, Historical, Seinen",TV,12,R - 17+ (violence & profanity),672,Golden Kamuy,2018,23.0
+674,12477,"Adventure, Sci-Fi",Movie,1,PG-13 - Teens 13 or older,673,Patema Inverted,2013,99.0
+675,41120,"Mystery, Comedy, Police",TV,11,PG-13 - Teens 13 or older,674,The Millionaire Detective – Balance:UNLIMITED,2020,23.0
+676,37475,"Action, Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,675,Boarding School Juliet,2018,24.0
+677,35639,"Slice of Life, Drama, Romance, School",TV,12,PG-13 - Teens 13 or older,675,Just Because!,2017,23.0
+678,28819,"Comedy, Ecchi, Romance, School, Shounen",TV,12,R+ - Mild Nudity,676,My Wife is the Student Council President!,2015,8.0
+679,34636,"Comedy, Drama, Romance, School, Shounen, Sports",TV,24,PG-13 - Teens 13 or older,676,Welcome to the Ballroom,2017,24.0
+680,29758,"Action, Mystery, Comedy, Super Power, Supernatural, Martial Arts, Seinen",TV,12,R - 17+ (violence & profanity),679,Taboo Tattoo,2016,24.0
+681,9936,"Action, Ecchi, Harem, Martial Arts, School, Super Power",TV,12,R+ - Mild Nudity,680,Maken-Ki!,2011,25.0
+682,38572,Fantasy,TV,12,PG-13 - Teens 13 or older,680,Assassins Pride,2019,24.0
+683,40060,"Action, Super Power, Fantasy",ONA,12,PG-13 - Teens 13 or older,681,BNA,2020,22.0
+684,40356,"Action, Adventure, Drama, Fantasy",TV,Unknown,PG-13 - Teens 13 or older,681,The Rising of the Shield Hero Season 2,2021,24.0
+685,36862,"Sci-Fi, Adventure, Mystery, Drama, Fantasy",Movie,1,R - 17+ (violence & profanity),682,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,2020,105.0
+686,442,"Adventure, Comedy, Historical, Supernatural, Drama, Shounen",Movie,1,PG-13 - Teens 13 or older,683,Naruto the Movie:Ninja Clash in the Land of Snow,2004,82.0
+687,14829,"Action, Comedy, Magic, Fantasy",TV,10,PG-13 - Teens 13 or older,684,Fate/Kaleid Liner Prisma Illya,2013,24.0
+688,34437,"Action, Military, Sci-Fi, Super Power, Drama, Mecha",Movie,1,R - 17+ (violence & profanity),685,Code Geass:Lelouch of the Re;surrection,2019,112.0
+689,16,"Comedy, Drama, Josei, Romance, Slice of Life",TV,24,PG-13 - Teens 13 or older,687,Honey and Clover,2005,23.0
+690,11737,"Action, Demons, Fantasy, Shounen, Supernatural",Movie,1,PG-13 - Teens 13 or older,688,Blue Exorcist The Movie,2012,88.0
+691,2246,"Mystery, Historical, Horror, Demons, Psychological, Supernatural, Fantasy, Seinen",TV,12,R - 17+ (violence & profanity),688,Mononoke,2007,22.0
+692,31952,"Comedy, Romance, School, Seinen",TV,12,PG-13 - Teens 13 or older,690,This Art Club Has a Problem!,2016,24.0
+693,6811,"Action, Adventure, Comedy, Historical, Demons, Supernatural, Magic, Romance, Fantasy, Shounen",TV,26,PG-13 - Teens 13 or older,692,InuYasha:The Final Act,2009,24.0
+694,21339,"Action, Military, Police, Sci-Fi",Movie,1,R - 17+ (violence & profanity),694,Psycho-Pass:The Movie,2015,113.0
+695,31376,"Slice of Life, Comedy, Supernatural, Magic, Shounen",TV,12,PG-13 - Teens 13 or older,694,Flying Witch,2016,23.0
+696,36793,"Romance, School, Shoujo",TV,12,PG-13 - Teens 13 or older,695,Real Girl,2018,22.0
+697,39710,"Slice of Life, Drama, Romance, Seinen",TV,12,PG-13 - Teens 13 or older,696,"Sing ""Yesterday"" for Me",2020,23.0
+698,39792,"Adventure, Comedy, School, Seinen",TV,12,PG-13 - Teens 13 or older,698,Keep Your Hands Off Eizouken!,2020,25.0
+699,34279,"Action, Drama, Fantasy, Romance",TV,24,R - 17+ (violence & profanity),698,Record of Grancrest War,2018,23.0
+700,2472,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,1,PG-13 - Teens 13 or older,699,Naruto:Shippuden the Movie,2007,94.0
+701,16001,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",Special,4,PG-13 - Teens 13 or older,700,Kokoro Connect OVA,2012,27.0
+702,387,"Slice of Life, Mystery, Psychological, Drama, Fantasy",TV,13,PG-13 - Teens 13 or older,700,Haibane Renmei,2002,24.0
+703,12729,"Comedy, Demons, Ecchi, Romance, School",OVA,2,R+ - Mild Nudity,702,High School DxD OVA,2012,23.0
+704,40046,"Mystery, Police, Psychological, Sci-Fi",TV,13,R - 17+ (violence & profanity),704,ID:INVADED,2020,24.0
+705,4901,"Action, Seinen",OVA,5,R+ - Mild Nudity,705,Black Lagoon:Roberta's Blood Trail,2010,33.0
+706,20047,"Slice of Life, Comedy, Romance, School, Seinen, Shoujo Ai",TV,12,PG-13 - Teens 13 or older,705,Sakura Trick,2014,24.0
+707,16662,"Drama, Historical, Romance",Movie,1,PG-13 - Teens 13 or older,706,The Wind Rises,2013,126.0
+708,10067,"Supernatural, Drama, School",Special,1,PG-13 - Teens 13 or older,708,Angel Beats!: Another Epilogue,2010,2.0
+709,6682,"Action, Ecchi, Super Power, Supernatural",TV,12,R - 17+ (violence & profanity),710,11eyes,2009,25.0
+710,16904,"Action, Super Power, Supernatural",Movie,1,PG-13 - Teens 13 or older,711,K:Missing Kings,2014,73.0
+711,36946,"Action, Adventure, Super Power, Martial Arts, Fantasy, Shounen",Movie,1,PG-13 - Teens 13 or older,711,Dragon Ball Super:Broly,2018,100.0
+712,4725,"Action, Super Power, Supernatural, Thriller",TV,12,R - 17+ (violence & profanity),713,Ga-Rei-Zero,2008,23.0
+713,3503,"Comedy, Ecchi, Harem, Romance, School, Shounen, Slice of Life, Supernatural",TV,12,R+ - Mild Nudity,713,Kanokon:The Girl Who Cried Fox,2008,24.0
+714,10568,Mystery,TV,12,R - 17+ (violence & profanity),715,Heaven's Memo Pad,2011,26.0
+715,8424,"Harem, Comedy, Ecchi, School",TV,12,PG-13 - Teens 13 or older,716,MM!,2010,23.0
+716,6773,"Action, Supernatural, Drama, Romance, Fantasy",TV,24,PG-13 - Teens 13 or older,716,Shakugan no Shana:Season III,2011,23.0
+717,19111,"Music, School, Slice of Life",TV,13,PG-13 - Teens 13 or older,717,Love Live! School Idol Project 2,2014,23.0
+718,31845,"Action, Sci-Fi, Harem, Comedy, Romance, Ecchi, Fantasy, School",TV,12,R+ - Mild Nudity,717,Hybrid x Heart Magias Academy Ataraxia,2016,24.0
+719,41433,"Action, Sci-Fi",TV,12,R - 17+ (violence & profanity),719,Akudama Drive,2020,23.0
+720,3092,"Comedy, Drama, Romance, Shounen Ai",TV,12,PG-13 - Teens 13 or older,720,Junjo Romantica,2008,24.0
+721,19769,"Action, Fantasy, Magic",TV,12,PG-13 - Teens 13 or older,722,Magical Warfare,2014,24.0
+722,38753,"Comedy, Drama, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,723,O Maidens in Your Savage Season,2019,24.0
+723,11761,"Action, Comedy, Ecchi, Martial Arts, School, Shounen, Super Power",TV,12,PG-13 - Teens 13 or older,723,Medaka Box,2012,24.0
+724,25099,"Comedy, Ecchi, Harem, Romance, School",TV,12,PG-13 - Teens 13 or older,724,Shomin Sample,2015,23.0
+725,12467,"Romance, School, Seinen",TV,13,R - 17+ (violence & profanity),725,Mysterious Girlfriend X,2012,24.0
+726,5258,"Comedy, Sports, Drama, Shounen",TV,26,PG-13 - Teens 13 or older,726,Fighting Spirit:New Challenger,2009,23.0
+727,170,"Comedy, Drama, School, Shounen, Sports",TV,101,PG-13 - Teens 13 or older,728,Slam Dunk,1993,23.0
+728,38397,"Comedy, Ecchi, School, Seinen",TV,12,PG-13 - Teens 13 or older,728,Nande Koko ni Sensei ga!?,2019,12.0
+729,6324,"Action, Harem, Comedy, Demons, Supernatural, Romance, Ecchi, Fantasy",TV,12,R+ - Mild Nudity,729,Omamori Himari,2010,24.0
+730,34096,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,12,PG-13 - Teens 13 or older,730,Gintama Season 5,2017,24.0
+731,34176,"Action, Adventure, Magic, Fantasy",TV,12,PG-13 - Teens 13 or older,731,Zero kara Hajimeru Mahou no Sho,2017,24.0
+732,35847,"Action, Sci-Fi, Mecha",TV,12,PG-13 - Teens 13 or older,734,SSSS.Gridman,2018,23.0
+733,20847,"Slice of Life, Comedy, School, Shounen",TV,13,R - 17+ (violence & profanity),735,Seitokai Yakuindomo*,2014,23.0
+734,5300,"Slice of Life, Demons, Supernatural, Drama, Shoujo",TV,13,PG-13 - Teens 13 or older,737,Natsume's Book of Friends Season 2,2009,24.0
+735,33049,"Action, Fantasy, Magic, Supernatural",Movie,1,R - 17+ (violence & profanity),737,Fate/stay night:Heaven's Feel - II. Lost Butterfly,2019,117.0
+736,31229,"Action, Comedy, Supernatural, Drama, Vampire, Josei",TV,12,R - 17+ (violence & profanity),738,SERVAMP,2016,24.0
+737,40056,"Action, Sci-Fi, Adventure",TV,12,PG-13 - Teens 13 or older,738,Deca-Dence,2020,23.0
+738,10379,"Slice of Life, Demons, Supernatural, Drama, Shoujo",TV,13,PG-13 - Teens 13 or older,738,Natsume's Book of Friends Season 3,2011,24.0
+739,32648,"Slice of Life, Comedy, Shounen",TV,12,PG-13 - Teens 13 or older,740,Handa-kun,2016,24.0
+740,759,"Comedy, Drama",Movie,1,PG-13 - Teens 13 or older,740,Tokyo Godfathers,2003,92.0
+741,60,"Action, Demons, Historical, Romance, Shounen, Supernatural",TV,24,R - 17+ (violence & profanity),742,Chrono Crusade,2003,23.0
+742,40497,"Action, Sci-Fi, Supernatural, Magic, Romance, School",TV,13,PG-13 - Teens 13 or older,742,The Irregular at Magic High School:Visitor Arc,2020,23.0
+743,40571,"Adventure, Magic, Fantasy",TV,12,PG-13 - Teens 13 or older,743,Wandering Witch:The Journey of Elaina,2020,24.0
+744,34914,"Game, Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,743,New Game!!,2017,24.0
+745,24701,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV,10,PG-13 - Teens 13 or older,746,Mushishi Zoku Shou 2nd Season,2014,23.0
+746,40716,"Slice of Life, Comedy, Shounen",TV,12,PG-13 - Teens 13 or older,747,Kakushigoto,2020,23.0
+747,25283,"Action, Drama, Fantasy, Magic, School",TV,12,PG-13 - Teens 13 or older,748,Sky Wizards Academy,2015,23.0
+748,40417,"Slice of Life, Comedy, Supernatural, Drama, Romance, Shoujo",TV,25,PG-13 - Teens 13 or older,750,Fruits Basket 2nd Season,2020,23.0
+749,18753,"Comedy, Romance, School",OVA,1,PG-13 - Teens 13 or older,750,Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA,2013,23.0
+750,2889,"Action, Adventure, Comedy, Super Power, Supernatural, Shounen",Movie,1,PG-13 - Teens 13 or older,750,Bleach the Movie:The DiamondDust Rebellion,2007,92.0
+751,39196,"Comedy, Demons, Supernatural, Fantasy, School, Shounen",TV,23,PG-13 - Teens 13 or older,751,Welcome to Demon School! Iruma-kun,2019,23.0
+752,5277,"Action, Comedy, Ecchi, Harem, Super Power",TV,13,R+ - Mild Nudity,752,Sekirei:Pure Engagement,2010,24.0
+753,34984,"Romance, Seinen",TV,12,PG-13 - Teens 13 or older,752,After the Rain,2018,22.0
+754,19775,"Action, Mecha, Sci-Fi, Seinen, Space",TV,12,R - 17+ (violence & profanity),755,Knights of Sidonia,2014,24.0
+755,39198,"Sci-Fi, Adventure, Space, Shounen",TV,12,PG-13 - Teens 13 or older,756,Astra Lost in Space,2019,28.0
+756,177,"Action, Adventure, Fantasy, Magic, Romance, Supernatural, Shounen",TV,26,PG-13 - Teens 13 or older,759,Tsubasa RESERVoir CHRoNiCLE,2005,25.0
+757,1222,"Slice of Life, Drama, Romance, Shoujo",TV,26,PG-13 - Teens 13 or older,759,Bokura ga Ita,2006,25.0
+758,29785,"Comedy, Supernatural, Romance, Vampire, Fantasy, School, Shounen",TV,13,PG-13 - Teens 13 or older,761,"Actually, I am...",2015,23.0
+759,528,"Action, Adventure, Comedy, Kids, Drama, Fantasy",Movie,1,PG - Children,761,Pokemon:The First Movie,1998,85.0
+760,21561,"Adventure, Comedy, Mystery, Supernatural",TV,11,PG-13 - Teens 13 or older,762,Nanana's Buried Treasure,2014,23.0
+761,329,"Drama, Romance, Sci-Fi, Seinen, Space",TV,26,PG-13 - Teens 13 or older,762,Planetes,2003,25.0
+762,37965,"Comedy, Sports, Drama",TV,23,PG-13 - Teens 13 or older,762,Run with the Wind,2018,23.0
+763,13535,"Comedy, Parody, Shounen, Supernatural",TV,13,PG-13 - Teens 13 or older,763,Good Luck Girl!,2012,23.0
+764,1571,"Mystery, Comedy, Horror, Supernatural, Shoujo",TV,25,PG-13 - Teens 13 or older,766,Ghost Hunt,2006,25.0
+765,2026,"Action, Harem, Comedy, Parody, Romance, Shounen",TV,52,PG-13 - Teens 13 or older,766,Hayate the Combat Butler,2007,24.0
+766,25879,"Comedy, Romance, Seinen, Slice of Life",TV,13,PG-13 - Teens 13 or older,766,Wagnaria!!3,2015,23.0
+767,210,"Slice of Life, Comedy, Martial Arts, Fantasy, Shounen",TV,161,R+ - Mild Nudity,767,Ranma ½,1989,24.0
+768,239,"Drama, Mystery, Sci-Fi, Supernatural, Thriller",TV,24,R - 17+ (violence & profanity),767,Gankutsuou:The Count of Monte Cristo,2004,24.0
+769,37786,"Romance, School, Shoujo Ai",TV,13,PG-13 - Teens 13 or older,768,Bloom Into You,2018,24.0
+770,28979,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",TV,12,R+ - Mild Nudity,770,To LOVE Ru Darkness 2,2015,23.0
+771,36286,"Drama, Fantasy",Movie,1,PG-13 - Teens 13 or older,771,Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow,2018,60.0
+772,39575,"Adventure, Slice of Life, Demons, Drama, Fantasy",TV,12,PG-13 - Teens 13 or older,774,Somali and the Forest Spirit,2020,23.0
+773,11665,"Slice of Life, Demons, Supernatural, Drama, Shoujo",TV,13,PG-13 - Teens 13 or older,774,Natsume's Book of Friends Season 4,2012,24.0
+774,18245,"Drama, Music, Romance, Slice of Life",TV,13,PG-13 - Teens 13 or older,774,White Album 2,2013,23.0
+775,30885,"Action, Adventure, Comedy, Shounen, Supernatural",OVA,2,PG-13 - Teens 13 or older,776,Noragami Aragoto OVA,2015,23.0
+776,21105,"Comedy, Romance, Shounen Ai",TV,10,PG-13 - Teens 13 or older,777,Love Stage!!,2014,23.0
+777,14353,"Game, Mystery, Psychological, Drama, Thriller",Movie,1,R - 17+ (violence & profanity),777,Death Billiards,2013,25.0
+778,801,"Action, Military, Sci-Fi, Mystery, Police, Mecha, Seinen",TV,26,R - 17+ (violence & profanity),778,Ghost in the Shell:Stand Alone Complex 2nd GIG,2004,25.0
+779,37987,"Slice of Life, Drama, Fantasy",Movie,1,PG-13 - Teens 13 or older,779,Violet Evergarden Movie,2020,140.0
+780,6747,"Action, Supernatural, Vampire",TV,12,R+ - Mild Nudity,781,Dance in the Vampire Bund,2010,24.0
+781,37744,"Action, Adventure, Fantasy",TV,12,PG-13 - Teens 13 or older,781,Isekai Cheat Magician,2019,23.0
+782,317,"Action, Super Power, Fantasy",Movie,1,PG-13 - Teens 13 or older,782,Final Fantasy VII: Advent Children,2005,101.0
+783,35946,"Action, Adventure, Supernatural, Magic, Fantasy, Shounen",Movie,1,PG-13 - Teens 13 or older,783,The Seven Deadly Sins the Movie:Prisoners of the Sky,2018,99.0
+784,16009,"Adventure, Mystery, Fantasy",TV,12,R - 17+ (violence & profanity),784,Sunday Without God,2013,23.0
+785,21557,"Mystery, Psychological, Drama",Movie,1,G - All Ages,785,When Marnie Was There,2014,103.0
+786,3782,"Action, Mystery, Supernatural, Romance, Thriller",Movie,1,R - 17+ (violence & profanity),785,the Garden of sinners Chapter 2:Murder Speculation Part A,2007,61.0
+787,8460,"Action, Shounen, Supernatural",OVA,1,R - 17+ (violence & profanity),787,Mirai Nikki OVA,2010,8.0
+788,32438,"Mystery, Comedy, Horror, Psychological, Drama",TV,12,R - 17+ (violence & profanity),787,The Lost Village,2016,24.0
+789,4282,"Action, Mystery, Supernatural, Drama, Romance, Thriller",Movie,1,R - 17+ (violence & profanity),788,the Garden of sinners Chapter 5:Paradox Paradigm,2008,114.0
+790,1313,"Action, Adventure, Comedy, Drama, Fantasy, Kids",TV,50,PG - Children,791,Digimon Adventure 02,2000,25.0
+791,597,"Adventure, Drama, Fantasy",Movie,1,G - All Ages,791,The Cat Returns,2002,75.0
+792,30736,"Action, Adventure, Demons, Supernatural, Magic, Fantasy",TV,24,R - 17+ (violence & profanity),792,Rage of Bahamut:Virgin Soul,2017,24.0
+793,4437,"Action, Martial Arts, Shounen, Supernatural",Movie,1,PG-13 - Teens 13 or older,793,Naruto:Shippuden the Movie 2 -Bonds-,2008,92.0
+794,28675,"Fantasy, Slice of Life, Supernatural",Movie,1,PG-13 - Teens 13 or older,795,Beyond the Boundary:I'll Be Here - Future,2015,90.0
+795,21511,"Action, Military, Sci-Fi, Slice of Life, School",TV,12,PG-13 - Teens 13 or older,795,KanColle:Kantai Collection,2015,24.0
+796,28617,"Comedy, Ecchi, Sci-Fi, Super Power, Supernatural",TV,12,PG-13 - Teens 13 or older,797,Punch Line,2015,23.0
+797,5356,"Action, Sci-Fi, Super Power, Supernatural, Seinen",TV,13,R - 17+ (violence & profanity),798,Canaan,2009,23.0
+798,36726,"Comedy, Ecchi, Harem, Romance, Shounen, Supernatural",TV,12,R+ - Mild Nudity,798,Yuragi-sou no Yuuna-san,2018,23.0
+799,37517,"Drama, Horror, Psychological, Shounen",TV,12,R - 17+ (violence & profanity),800,Happy Sugar Life,2018,24.0
+800,21273,"Slice of Life, Comedy",TV,12,PG-13 - Teens 13 or older,801,Is the Order a Rabbit?,2014,23.0
+801,22687,"Action, Sci-Fi, Space, Horror, Drama, Seinen",TV,13,R - 17+ (violence & profanity),802,Terraformars,2014,24.0
+802,36470,"Comedy, Romance, Slice of Life",TV,13,PG-13 - Teens 13 or older,802,Tada Never Falls in Love,2018,23.0
+803,4835,"Action, Adventure, Comedy, Super Power, Supernatural, Shounen",Movie,1,PG-13 - Teens 13 or older,803,Bleach the Movie:Fade to Black,2008,94.0
+804,9863,"Comedy, School, Shounen",TV,77,PG-13 - Teens 13 or older,804,SKET Dance,2011,24.0
+805,2581,"Action, Military, Sci-Fi, Space, Drama, Mecha",TV,25,R - 17+ (violence & profanity),806,Mobile Suit Gundam 00,2007,24.0
+806,30205,"Action, Comedy, Sports, Shounen",TV,12,PG-13 - Teens 13 or older,806,Aoharu x Machinegun,2015,24.0
+807,4896,"Mystery, Horror, Psychological, Supernatural",TV,26,R - 17+ (violence & profanity),807,Umineko:When They Cry,2009,23.0
+808,5525,"Action, Demons, Fantasy, Josei, Magic, Military",TV,25,PG-13 - Teens 13 or older,809,07-Ghost,2009,23.0
+809,39326,"Comedy, Ecchi, Harem, Romance, School",TV,12,PG-13 - Teens 13 or older,811,"Hensuki:Are you willing to fall in love with a pervert, as long as she's a cutie?",2019,23.0
+810,12175,"Drama, Romance, School",TV,12,PG-13 - Teens 13 or older,812,"Love, Election and Chocolate",2012,25.0
+811,2129,"Drama, Romance, School",TV,13,PG-13 - Teens 13 or older,813,True Tears,2008,24.0
+812,9941,"Action, Mystery, Comedy, Super Power",TV,25,PG-13 - Teens 13 or older,814,Tiger & Bunny,2011,24.0
+813,8129,"Slice of Life, Comedy, Josei",TV,11,PG-13 - Teens 13 or older,815,Princess Jellyfish,2010,22.0
+814,35712,"Harem, Comedy, Romance, Ecchi, School",TV,10,PG-13 - Teens 13 or older,815,My Girlfriend is Shobitch,2017,23.0
+815,14397,"Drama, Game, Josei, School, Slice of Life, Sports",TV,25,PG-13 - Teens 13 or older,816,Chihayafuru 2,2013,22.0
+816,2923,"Comedy, Magic, School, Shoujo",TV,51,PG - Children,817,Shugo Chara!,2007,24.0
+817,5040,"Sports, Psychological, Seinen",TV,25,PG-13 - Teens 13 or older,819,One Outs,2008,23.0
+818,30458,"Action, Horror, Supernatural, Drama, School, Seinen",OVA,1,R - 17+ (violence & profanity),821,"Tokyo Ghoul: ""Jack""",2015,30.0
+819,23317,"Action, Mystery, Comedy, Historical, Demons, Supernatural, Shounen",OVA,2,R - 17+ (violence & profanity),822,Black Butler:Book of Murder,2015,58.0
+820,26,"Action, Sci-Fi, Psychological, Drama",TV,22,R+ - Mild Nudity,823,Texhnolyze,2003,23.0
+821,32268,"Comedy, Mystery, Supernatural",ONA,12,R - 17+ (violence & profanity),824,Koyomimonogatari,2016,14.0
+822,39741,"Slice of Life, Drama, Fantasy",Movie,1,PG-13 - Teens 13 or older,824,Violet Evergarden I:Eternity and the Auto Memory Doll,2019,91.0
+823,38993,"Slice of Life, Comedy, Romance, School, Shounen",TV,12,PG-13 - Teens 13 or older,825,Karakai Jouzu no Takagi-san 2,2019,23.0
+824,18179,"Comedy, Sports, Drama, Shounen",TV,38,PG-13 - Teens 13 or older,825,Yowamushi Pedal,2013,24.0
+825,12859,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie,1,PG-13 - Teens 13 or older,826,One Piece Film Z,2012,107.0
+826,3783,"Action, Mystery, Supernatural, Drama, Thriller",Movie,1,R+ - Mild Nudity,828,the Garden of sinners Chapter 3:Remaining Sense of Pain,2008,59.0
+827,18689,"Comedy, School, Shounen, Sports",TV,75,PG-13 - Teens 13 or older,829,Ace of Diamond,2013,24.0
+828,20159,"Action, Adventure, Comedy, Fantasy, Kids",Special,4,PG - Children,829,Pokémon:Origins,2013,21.0
+829,29854,"Action, Adventure, Comedy, Demons, Shounen, Supernatural",TV,26,PG-13 - Teens 13 or older,831,Ushio and Tora,2015,24.0
+830,550,"Action, Game, Comedy, Fantasy, Shounen",TV,27,PG-13 - Teens 13 or older,831,Yu☆Gi☆Oh!,1998,24.0
+831,37095,"Drama, Fantasy, Slice of Life",Special,1,PG-13 - Teens 13 or older,832,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",2018,34.0
+832,31,"Drama, Mecha, Psychological, Sci-Fi",Movie,1,R - 17+ (violence & profanity),833,Neon Genesis Evangelion:Death & Rebirth,1997,104.0
+833,38573,"Adventure, Comedy, Fantasy",TV,12,PG-13 - Teens 13 or older,834,Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?,2019,23.0
+834,31405,"Military, Historical, Drama",TV,12,R - 17+ (violence & profanity),835,Joker Game,2016,23.0
+835,35376,"Comedy, School, Seinen, Slice of Life",TV,12,PG-13 - Teens 13 or older,837,Himouto! Umaru-chan R,2017,23.0
+836,32188,"Sci-Fi, Thriller",Special,1,PG-13 - Teens 13 or older,837,Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,2015,24.0
+837,4186,"Action, Adventure, Fantasy, School, Sci-Fi",TV,24,R - 17+ (violence & profanity),838,Chrome Shelled Regios,2009,24.0
+838,36023,"Action, Fantasy, Supernatural",TV,26,R - 17+ (violence & profanity),840,Persona 5 The Animation,2018,24.0
+839,34104,"Action, Fantasy, Mecha, School",TV,13,PG-13 - Teens 13 or older,840,Knight's & Magic,2017,24.0
+840,31904,"Action, Shounen, Super Power",TV,10,R+ - Mild Nudity,841,Big Order (TV),2016,24.0
+841,16035,"Action, Fantasy, Josei, Mystery, Sci-Fi",TV,13,PG-13 - Teens 13 or older,842,Karneval,2013,24.0
+842,29093,Drama,Special,1,R+ - Mild Nudity,844,The Labyrinth of Grisaia:The Cocoon of Caprice 0,2015,47.0
+843,1827,"Action, Adventure, Historical, Fantasy",TV,26,PG-13 - Teens 13 or older,845,Moribito - Guardian of the Spirit,2007,25.0
+844,36027,"Mystery, Dementia, Horror, Supernatural, Drama, School",TV,12,R - 17+ (violence & profanity),846,King's Game,2017,23.0
+845,433,"Drama, Military, Romance, Sci-Fi",Movie,1,PG-13 - Teens 13 or older,846,The Place Promised in Our Early Days,2004,90.0
+846,64,"Action, Comedy, Drama, Magic, Seinen",TV,12,PG-13 - Teens 13 or older,846,Rozen Maiden,2004,24.0
+847,3702,"Music, Comedy, Seinen",OVA,12,R - 17+ (violence & profanity),847,Detroit Metal City:The Animated Series,2008,13.0
+848,6922,"Action, Fantasy, Magic, Supernatural",Movie,1,PG-13 - Teens 13 or older,849,Fate/stay night:Unlimited Blade Works,2010,100.0
+849,40935,"Slice of Life, Psychological, Drama, Shounen",TV,Unknown,R - 17+ (violence & profanity),851,Beastars 2nd Season,2021,22.0
+850,19647,"Comedy, Sports, Drama, Shounen",TV,25,PG-13 - Teens 13 or older,851,Hajime No Ippo:The Fighting!,2013,22.0
+851,4999,"Harem, Comedy, Romance, Ecchi, Martial Arts, Shounen",TV,12,PG-13 - Teens 13 or older,852,Samurai Harem,2009,24.0
+852,6201,"Harem, Comedy, Ecchi, School",TV,12,R+ - Mild Nudity,852,Princess Lover!,2009,24.0
+853,34443,"Action, Martial Arts, Shounen",ONA,26,R - 17+ (violence & profanity),852,Baki,2018,24.0
+854,36106,"Action, Horror, Supernatural, Drama, Fantasy",OVA,3,R - 17+ (violence & profanity),854,Attack on Titan:Lost Girls,2017,25.0
+855,18139,"Comedy, School, Seinen",TV,21,G - All Ages,855,Tonari no Seki-kun:The Master of Killing Time,2014,7.0
+856,39491,"Action, Sci-Fi, Police, Psychological",TV,8,R - 17+ (violence & profanity),856,Psycho-Pass 3,2019,45.0
+857,36432,"Action, Sci-Fi, Super Power, Magic",TV,26,PG-13 - Teens 13 or older,857,A Certain Magical Index III,2018,23.0
+858,30187,"Drama, Mystery, Thriller",TV,12,R - 17+ (violence & profanity),858,Beautiful Bones -Sakurako's Investigation-,2015,23.0
+859,40004,"Harem, Comedy, Romance, School, Shounen",TV,13,PG-13 - Teens 13 or older,860,We Never Learn!:Bokuben,2019,23.0
+860,9926,"Comedy, Drama, Romance, Shounen Ai",TV,12,PG-13 - Teens 13 or older,861,Sekai Ichi Hatsukoi - World's Greatest First Love,2011,23.0
+861,38610,"Comedy, Ecchi, School, Seinen",TV,12,PG-13 - Teens 13 or older,862,Magical Sempai,2019,13.0
+862,4155,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie,1,PG-13 - Teens 13 or older,862,One Piece Film Strong World,2009,115.0
+863,936,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",Movie,1,PG-13 - Teens 13 or older,864,Naruto the Movie 2:Legend of the Stone of Gelel,2005,97.0
+864,12967,"Action, Harem, Supernatural, Romance, Shoujo",TV,12,PG-13 - Teens 13 or older,864,La storia della Arcana Famiglia,2012,24.0
+865,7148,"Harem, Comedy, Romance, Ecchi, School",TV,12,R+ - Mild Nudity,864,Ladies versus Butlers!,2010,24.0
+866,33161,"Comedy, Romance, School",OVA,1,PG-13 - Teens 13 or older,865,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA,2016,23.0
+867,13367,"Comedy, Ecchi, Harem, Mystery, Romance, School",TV,12,R+ - Mild Nudity,867,NAKAIMO - My Little Sister Is Among Them!,2012,24.0
+868,8246,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,1,PG-13 - Teens 13 or older,869,Naruto: Shippuuden Movie 4 - The Lost Tower,2010,85.0
+869,31658,"Sports, School, Shounen",Movie,1,PG-13 - Teens 13 or older,870,Kuroko no Basket Movie 4: Last Game,2017,90.0
+870,4280,"Action, Mystery, Supernatural, Thriller",Movie,1,R - 17+ (violence & profanity),871,the Garden of sinners Chapter 4:The Hollow Shrine,2008,46.0
+871,18119,"Comedy, Seinen, Slice of Life",TV,13,PG-13 - Teens 13 or older,872,Servant x Service,2013,23.0
+872,31716,"Action, Comedy, Supernatural, Romance, School",TV,13,PG-13 - Teens 13 or older,872,Rewrite,2016,24.0
+873,15335,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen",Movie,1,PG-13 - Teens 13 or older,873,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,2013,110.0
+874,35848,"Action, Mecha, Sci-Fi, Super Power",Movie,1,PG-13 - Teens 13 or older,874,Promare,2019,111.0
+875,145,"Comedy, Drama, Romance, School, Shoujo, Slice of Life",TV,26,PG-13 - Teens 13 or older,875,His and Her Circumstances,1998,24.0
+876,4565,"Action, Mecha, Sci-Fi, Space, Super Power",Movie,1,R+ - Mild Nudity,876,Gurren Lagann The Movie:The Lights in the Sky are Stars,2009,125.0
+877,38992,"Comedy, Romance",ONA,12,PG-13 - Teens 13 or older,877,"Science Fell in Love, So I Tried to Prove It",2020,23.0
+878,41168,"Comedy, Supernatural, Drama, Romance, School",ONA,1,PG-13 - Teens 13 or older,879,A Whisker Away,2020,104.0
+879,21877,"Game, Comedy, Romance, School, Seinen",TV,12,PG-13 - Teens 13 or older,880,High Score Girl,2018,24.0
+880,21033,"Comedy, Ecchi, Fantasy, School",TV,12,R+ - Mild Nudity,880,Dragonar Academy,2014,24.0
+881,10321,"Harem, Music, Comedy, Romance, School, Shoujo",TV,13,PG-13 - Teens 13 or older,882,Uta no Prince Sama,2011,25.0
+882,35330,"Comedy, Dementia, Parody",TV,12,PG-13 - Teens 13 or older,884,Pop Team Epic,2018,12.0
+883,357,"Comedy, Magic, Ecchi",OVA,4,R - 17+ (violence & profanity),884,Bludgeoning Angel Dokuro-chan,2005,25.0
+884,7193,"Drama, Historical, Psychological, Seinen, Thriller",TV,12,R - 17+ (violence & profanity),885,Aoi Bungaku Series,2009,23.0
+885,21507,"Action, Comedy, Ecchi, Shounen, Supernatural",TV,12,PG-13 - Teens 13 or older,886,Soul Eater NOT!,2014,23.0
+886,35222,"Comedy, School, Shoujo, Slice of Life",TV,12,PG-13 - Teens 13 or older,887,School Babysitters,2018,23.0
+887,37569,"Action, Historical, Supernatural, Vampire",TV,12,R - 17+ (violence & profanity),888,Sirius the Jaeger,2018,23.0
+888,24231,"Action, Adventure, Comedy, Romance, Fantasy",TV,10,R - 17+ (violence & profanity),889,Chaika -The Coffin Princess- Avenging Battle,2014,23.0
+889,32962,"Sci-Fi, Mystery",TV,12,PG-13 - Teens 13 or older,889,Occultic;Nine,2016,24.0
+890,61,"Action, Comedy, Magic, Romance, Fantasy, School, Shoujo",TV,26,PG-13 - Teens 13 or older,891,D.N.Angel,2003,23.0
+891,23309,"Action, Harem, Police, Ecchi",TV,12,R+ - Mild Nudity,892,Rail Wars!,2014,24.0
+892,31414,"Comedy, Romance, School, Shoujo, Slice of Life",TV,24,PG-13 - Teens 13 or older,893,Rainbow Days,2016,13.0
+893,5909,"Harem, Comedy, Parody, School",TV,12,PG-13 - Teens 13 or older,894,Student Council's Discretion,2009,24.0
+894,416,"Action, Military, Adventure, Comedy, Historical, Drama, Romance",Movie,1,G - All Ages,895,Porco Rosso,1992,93.0
+895,37451,"Psychological, Mystery, Horror",TV,18,R - 17+ (violence & profanity),896,Boogiepop and Others,2019,23.0
+896,376,"Horror, Psychological, Supernatural, Drama, Ecchi, Seinen",Special,1,R+ - Mild Nudity,897,Elfen Lied:In the Passing Rain,2005,25.0
+897,12049,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",Movie,1,PG-13 - Teens 13 or older,898,Fairy Tail Movie 1: Houou no Miko,2012,86.0
+898,34712,"Mystery, Super Power, Drama, Fantasy, Shoujo",TV,12,PG-13 - Teens 13 or older,899,Children of the Whales,2017,23.0
+899,31251,"Action, Drama, Mecha, Sci-Fi, Space",TV,25,R - 17+ (violence & profanity),900,Mobile Suit Gundam:Iron-Blooded Orphans,2015,24.0
+900,16934,"Comedy, Drama, Romance, School, Slice of Life",Special,1,PG-13 - Teens 13 or older,901,"Love, Chunibyo & Other Delusions!:Sparkling... Slapstick Noel",2013,24.0
+901,5205,"Action, Mystery, Supernatural, Romance, Thriller",Movie,1,R - 17+ (violence & profanity),902,the Garden of sinners Chapter 7:Murder Speculation Part B,2009,121.0
+902,2926,"Drama, Romance, School",TV,13,PG-13 - Teens 13 or older,902,Myself; Yourself,2007,25.0
+903,10218,"Action, Military, Adventure, Demons, Supernatural, Fantasy, Seinen",Movie,1,R+ - Mild Nudity,903,Berserk:The Golden Age Arc I - The Egg of the King,2012,76.0
+904,31988,"Music, School, Drama",TV,13,PG-13 - Teens 13 or older,906,Sound! Euphonium 2,2016,23.0
+905,21659,"Action, Comedy, Super Power, School",Special,2,R - 17+ (violence & profanity),907,Kill la Kill Specials,2014,18.0
+906,10155,"Action, Adventure, Fantasy, Magic",TV,13,PG-13 - Teens 13 or older,908,Dog Days,2011,24.0
+907,9760,"Adventure, Romance, Fantasy",Movie,1,PG-13 - Teens 13 or older,909,Children Who Chase Lost Voices,2011,116.0
+908,35928,"Action, Drama, Romance, Seinen, Supernatural, Vampire",TV,12,R - 17+ (violence & profanity),910,Devils' Line,2018,24.0
+909,18229,"Sci-Fi, Adventure",TV,12,PG-13 - Teens 13 or older,911,Gatchaman Crowds,2013,23.0
+910,41619,"Psychological, Shounen, Super Power, Supernatural, Thriller",TV,13,R - 17+ (violence & profanity),912,Munou na Nana,2020,23.0
+911,11979,"Drama, Magic, Psychological, Thriller",Movie,1,PG-13 - Teens 13 or older,912,Puella Magi Madoka Magica the Movie Part 2:Eternal,2012,109.0
+912,16201,"Psychological, Drama, Romance, School, Shounen",TV,13,R - 17+ (violence & profanity),912,Flowers of Evil,2013,24.0
+913,11179,"Comedy, Romance, Slice of Life",TV,12,PG-13 - Teens 13 or older,914,"Listen to Me, Girls. I Am Your Father!",2012,23.0
+914,10020,"Slice of Life, Comedy",ONA,4,PG-13 - Teens 13 or older,916,OreImo Specials,2011,28.0
+915,7059,"Action, Slice of Life, Drama, School",OVA,1,PG-13 - Teens 13 or older,916,Black★Rock Shooter (OVA),2010,52.0
+916,482,"Action, Game, Comedy, Fantasy, Shounen",TV,180,PG-13 - Teens 13 or older,917,Yu-Gi-Oh! GX,2004,23.0
+917,6166,"Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,12,R+ - Mild Nudity,917,Cat Planet Cuties,2010,24.0
+918,3786,"Action, Sci-Fi, Psychological, Drama, Mecha",Movie,1,R - 17+ (violence & profanity),917,Evangelion:3.0+1.0 Thrice Upon a Time,Unknown,53.130824061196115
+919,134,"Action, Psychological, Military, Drama, Sci-Fi",TV,13,R - 17+ (violence & profanity),920,Gunslinger Girl,2003,24.0
+920,41930,"Drama, Fantasy",TV,12,PG-13 - Teens 13 or older,920,The Day I Became a God,2020,24.0
+921,38084,"Action, Supernatural, Magic, Fantasy",TV,21,PG-13 - Teens 13 or older,920,Fate/Grand Order:Absolute Demonic Front - Babylonia,2019,23.0
+922,38778,"Comedy, Romance, Ecchi, Shounen",TV,12,PG-13 - Teens 13 or older,922,Ao-chan Can't Study!,2019,12.0
+923,10711,"Comedy, School, Seinen",ONA,12,PG-13 - Teens 13 or older,924,Plastic Neesan,2011,2.0
+924,10589,"Action, Adventure, Martial Arts, Super Power, Mystery, Shounen",Movie,1,PG-13 - Teens 13 or older,925,Naruto: Shippuuden Movie 5 - Blood Prison,2011,102.0
+925,11977,"Psychological, Drama, Magic, Thriller",Movie,1,PG-13 - Teens 13 or older,927,Puella Magi Madoka Magica the Movie Part 1:Beginnings,2012,130.0
+926,874,"Adventure, Comedy, Drama, Fantasy, Shounen",TV,51,PG - Children,927,Digimon Tamers,2001,25.0
+927,37055,"Action, Military, Magic",Movie,1,R - 17+ (violence & profanity),928,Saga of Tanya the Evil:The Movie,2019,98.0
+928,16353,"Comedy, Romance, School",TV,13,PG-13 - Teens 13 or older,929,Love Lab,2013,24.0
+929,8247,"Action, Adventure, Comedy, Super Power, Supernatural, Shounen",Movie,1,PG-13 - Teens 13 or older,931,Bleach the Movie:Hell Verse,2010,94.0
+930,8557,"Comedy, Shounen, Slice of Life",TV,12,PG-13 - Teens 13 or older,931,The Squid Girl,2010,24.0
+931,41006,"Mystery, Dementia, Horror, Psychological, Supernatural, Thriller",TV,24,R - 17+ (violence & profanity),932,Higurashi:When They Cry – Gou,2020,23.0
+932,35608,"Comedy, Drama, Romance, School, Slice of Life",Movie,1,PG-13 - Teens 13 or older,933,Chuunibyou demo Koi ga Shitai! Movie: Take On Me,2018,93.0
+933,41345,"Action, Supernatural, Vampire, School",TV,13,R - 17+ (violence & profanity),933,Noblesse,2020,23.0
+934,174,"Action, Ecchi, Martial Arts, Comedy, Super Power, School, Shounen",TV,24,R - 17+ (violence & profanity),934,Tenjho Tenge,2004,23.0
+935,10357,"Comedy, Fantasy, Seinen",TV,12,PG-13 - Teens 13 or older,935,Humanity Has Declined,2012,23.0
+936,5781,"Action, Comedy, Ecchi, Fantasy, Harem, Mecha, School",OVA,13,R+ - Mild Nudity,935,Tenchi Muyo! War on Geminar,2009,45.0
+937,27,"Action, Supernatural, Vampire",TV,24,R - 17+ (violence & profanity),936,Trinity Blood,2005,24.0
+938,13599,"Sci-Fi, Mystery, Drama, Mecha, School",TV,22,PG-13 - Teens 13 or older,937,Robotics;Notes,2012,23.0
+939,29067,"Comedy, Romance, Seinen, Slice of Life",TV,13,PG-13 - Teens 13 or older,939,I Can't Understand What My Husband Is Saying:2nd Thread,2015,3.0
+940,67,"Action, Adventure, Historical, Supernatural, Romance, Samurai, Fantasy",TV,24,R - 17+ (violence & profanity),940,Basilisk,2005,24.0
+941,48,"Game, Sci-Fi, Adventure, Mystery, Magic, Fantasy",TV,26,PG-13 - Teens 13 or older,940,.hack//Sign,2002,24.0
+942,12115,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",Movie,1,R+ - Mild Nudity,942,Berserk:The Golden Age Arc III - The Advent,2013,110.0
+943,33047,"Action, Fantasy, Magic",TV,10,R - 17+ (violence & profanity),943,Fate/Extra:Last Encore,2018,24.0
+944,13357,"Ecchi, Comedy, Harem, Romance, Demons, School",Special,6,R+ - Mild Nudity,944,High School DxD Specials,2012,4.0
+945,33836,"Romance, School",TV,12,PG-13 - Teens 13 or older,946,Seiren,2017,24.0
+946,440,"Comedy, Drama, Fantasy, Mystery, Psychological, Shoujo",TV,39,PG-13 - Teens 13 or older,948,Revolutionary Girl Utena,1997,23.0
+947,3652,"Mystery, Comedy, Psychological, Supernatural, Thriller",OVA,5,PG-13 - Teens 13 or older,948,When They Cry:Rei,2009,30.0
+948,30346,"Slice of Life, Romance, School, Shounen Ai",Movie,1,PG-13 - Teens 13 or older,949,Doukyusei -Classmates-,2016,60.0
+949,32979,"Sci-Fi, Adventure, Comedy, Magic",TV,13,PG-13 - Teens 13 or older,949,Flip Flappers,2016,23.0
+950,39988,"Comedy, Parody, Fantasy",TV,12,PG-13 - Teens 13 or older,951,Isekai Quartet 2,2020,11.0
+951,10578,"Action, Comedy, Ecchi, School, Supernatural",TV,12,R - 17+ (violence & profanity),952,C³ - CubexCursedxCurious,2011,24.0
+952,32370,"Action, Adventure, Super Power, Demons, Shounen",TV,13,R - 17+ (violence & profanity),953,D.Gray-man HALLOW,2016,24.0
+953,35240,"Action, Mystery, Historical",TV,12,R - 17+ (violence & profanity),954,Princess Principal,2017,25.0
+954,40262,"Comedy, Sports, Drama, School, Shounen",OVA,2,PG-13 - Teens 13 or older,956,Haikyuu!!: Riku vs. Kuu,2020,22.0
+955,31374,"Comedy, Parody, School, Shounen",TV,12,PG-13 - Teens 13 or older,956,Attack on Titan:Junior High,2015,17.0
+956,1699,"Drama, Fantasy, Historical, Romance",TV,24,PG-13 - Teens 13 or older,957,Romeo x Juliet,2007,24.0
+957,469,"Comedy, Romance, Vampire, School, Shounen",TV,24,PG-13 - Teens 13 or older,958,Karin,2005,23.0
+958,25731,"Action, Mecha, Sci-Fi",TV,25,R - 17+ (violence & profanity),958,Cross Ange:Rondo of Angel and Dragon,2014,23.0
+959,41491,"Action, Adventure, Supernatural, Magic, Fantasy, Shounen",TV,24,PG-13 - Teens 13 or older,958,The Seven Deadly Sins:Dragon's Judgement,2021,24.0
+960,16732,"Slice of Life, Comedy, School, Seinen",TV,12,PG-13 - Teens 13 or older,961,KINMOZA!,2013,24.0
+961,10456,"Action, Sci-Fi, Fantasy",TV,13,PG-13 - Teens 13 or older,962,Horizon in the Middle of Nowhere,2011,24.0
+962,14837,"Action, Adventure, Super Power, Martial Arts, Fantasy, Shounen",Movie,1,PG-13 - Teens 13 or older,962,Dragon Ball Z:Battle of Gods,2013,85.0
+963,267,"Action, Drama, Sci-Fi, Seinen, Super Power",TV,26,R - 17+ (violence & profanity),963,Gungrave,2003,25.0
+964,19685,"Comedy, Harem, Romance, School",TV,13,PG-13 - Teens 13 or older,964,If Her Flag Breaks,2014,24.0
+965,3167,"Sci-Fi, Slice of Life",ONA,6,PG-13 - Teens 13 or older,965,Time of Eve,2008,18.0
+966,2994,"Mystery, Police, Psychological, Supernatural, Thriller",Special,2,R - 17+ (violence & profanity),965,Death Note:Relight,2007,112.0
+967,5204,"Action, Magic, Mystery, Romance, Supernatural, Thriller",Movie,1,R - 17+ (violence & profanity),966,the Garden of sinners Chapter 6:Oblivion Recording,2008,59.0
+968,11701,"Horror, Mystery, Thriller",OVA,1,R - 17+ (violence & profanity),966,Another:The Other,2012,24.0
+969,2144,"Action, Adventure",Movie,1,PG-13 - Teens 13 or older,968,Naruto the Movie 3:Guardians of the Crescent Moon Kingdom,2006,94.0
+970,3901,"Action, Comedy, Historical, Mystery, Supernatural",Special,3,R - 17+ (violence & profanity),969,Baccano! Specials,2008,29.0
+971,23251,"Comedy, Supernatural, Shounen",TV,12,PG-13 - Teens 13 or older,970,GUGURE! KOKKURI-SAN,2014,24.0
+972,3342,"Action, Horror, Sci-Fi, Shoujo Ai, Supernatural",TV,6,R+ - Mild Nudity,971,Rin:Daughters of Mnemosyne,2008,45.0
+973,8277,"Action, Harem, Comedy, Ecchi, Samurai, School",TV,12,R+ - Mild Nudity,973,Samurai Girls,2010,24.0
+974,1536,"Action, Fantasy, Supernatural, Comedy, School, Shounen",TV,26,PG-13 - Teens 13 or older,974,Buso Renkin,2006,24.0
+975,36266,"Drama, Horror, Psychological, Supernatural",TV,12,R - 17+ (violence & profanity),975,Magical Girl Site,2018,24.0
+976,240,"Slice of Life, Comedy, Parody",TV,12,PG-13 - Teens 13 or older,976,Genshiken,2004,25.0
+977,13331,"Action, Adventure, Seinen",TV,12,R+ - Mild Nudity,977,Jormungand Season 2:Perfect Order,2012,24.0
+978,10012,"Comedy, Parody, Supernatural",OVA,12,PG-13 - Teens 13 or older,978,Carnival Phantasm,2011,14.0
+979,38480,"Super Power, Supernatural, Fantasy, School",TV,12,R - 17+ (violence & profanity),979,A Certain Scientific Accelerator,2019,23.0
+980,34012,"Comedy, Fantasy, Mystery",TV,12,PG-13 - Teens 13 or older,980,Restaurant to Another World,2017,23.0
+981,12113,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",Movie,1,R+ - Mild Nudity,980,Berserk:The Golden Age Arc II - The Battle for Doldrey,2012,92.0
+982,9135,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",Movie,1,R - 17+ (violence & profanity),980,Fullmetal Alchemist:The Sacred Star of Milos,2011,110.0
+983,31297,"Action, Drama, Horror, Mystery, Psychological, Supernatural",OVA,1,R - 17+ (violence & profanity),981,"Tokyo Ghoul: ""Pinto""",2015,24.0
+984,2963,"Slice of Life, Comedy, School",TV,13,PG-13 - Teens 13 or older,983,Minami-ke,2007,24.0
+985,322,"Comedy, Drama, Josei, Romance, Slice of Life",TV,12,R - 17+ (violence & profanity),983,Paradise Kiss,2005,24.0
+986,8888,"Action, Mecha, Military, Sci-Fi",Movie,1,R - 17+ (violence & profanity),986,Code Geass:Akito the Exiled - The Wyvern Arrives,2012,51.0
+987,1690,"Sci-Fi, Psychological, Drama, Mecha, Seinen",TV,24,R - 17+ (violence & profanity),987,Bokurano,2007,23.0
+988,12403,"Slice of Life, Comedy, School, Shoujo Ai",TV,12,PG-13 - Teens 13 or older,990,YuruYuri:Happy Go Lily ♪♪,2012,23.0
+989,42923,"Comedy, Sports",TV,12,PG-13 - Teens 13 or older,991,SK8 the Infinity,2021,23.0
+990,12431,"Comedy, Sci-Fi, Seinen, Slice of Life, Space",TV,99,PG-13 - Teens 13 or older,991,Space Brothers,2012,24.0
+991,9330,"Action, Magic, Romance, School, Seinen, Supernatural",TV,12,PG-13 - Teens 13 or older,992,Dragon Crisis!,2011,23.0
+992,33433,"Action, Historical, Military",TV,12,R - 17+ (violence & profanity),993,Izetta:The Last Witch,2016,25.0
+993,16512,"Action, Demons, Supernatural",TV,13,R - 17+ (violence & profanity),993,Devil Survivor 2 The Animation,2013,24.0
+994,8408,"Action, Comedy, Supernatural",Special,2,R - 17+ (violence & profanity),995,Durarara!! Specials,2010,23.0
+995,97,"Action, Sci-Fi, Adventure",TV,26,PG-13 - Teens 13 or older,995,Last Exile,2003,24.0
+996,39468,"Slice of Life, Fantasy",TV,14,PG-13 - Teens 13 or older,997,Ascendance of a Bookworm,2019,23.0
+997,39523,Fantasy,TV,12,PG-13 - Teens 13 or older,997,CHOYOYU!:High School Prodigies Have It Easy Even in Another World!,2019,23.0
+998,19315,"Fantasy, Horror, Psychological",TV,12,R - 17+ (violence & profanity),997,Pupa,2014,4.0
+999,5940,"Action, Adventure, Fantasy",TV,12,R+ - Mild Nudity,999,The Sacred Blacksmith,2009,24.0
