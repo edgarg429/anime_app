@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from surprise import Reader, Dataset
 from surprise.prediction_algorithms import SVD
-from IPython.display import clear_output
+
 
 anime_df = pd.read_csv('./App_data/Top_1000_anime.csv', index_col=0)
 user_df = pd.read_csv('./App_data/filtered_user_ratings.csv', index_col=0)
