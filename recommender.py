@@ -88,14 +88,15 @@ def Anime_Recommender(user_ratings, anime_df, rec_num, genre=None, show_type=Non
         synopsis = syn_df.loc[syn_df['MAL_ID'] == int(rec[0])]['synopsis'].values[0]
         show_type = anime_df.loc[anime_df['MAL_ID'] == int(rec[0])]['Type'].values[0]
         if show_type == 'TV':
-            show_type = 'This is a Series'
+            show_type = 'Series'
         elif show_type == 'Music':
             show_type = 'This is a Music Video'
         elif show_type == 'ONA':
             show_type = 'This is an ONA (Original Net Animation)'
         elif show_type == 'OVA':
             show_type = 'This is an OVA (Original Video Animation)'
-        st.text(f'Recommendation # {idx+1}: {title}            {show_type}')      
+        st.write(f'Recommendation # {idx+1}: {title}') 
+        st.write(show_type)
         with st.beta_expander("Expand for Anime synopsis"):
             st.write(synopsis)
         rec_num -= 1
