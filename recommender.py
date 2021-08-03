@@ -95,7 +95,7 @@ def Anime_Recommender(user_ratings, anime_df, rec_num, genre=None, show_type=Non
             show_type = 'This is an ONA (Original Net Animation)'
         elif show_type == 'OVA':
             show_type = 'This is an OVA (Original Video Animation)'
-        st.write(f'Recommendation # {idx+1}: {title}\n                {show_type}\n')
+        st.text(f'Recommendation # {idx+1}: {title}            {show_type}')      
         with st.beta_expander("Expand for Anime synopsis"):
             st.write(synopsis)
         rec_num -= 1
